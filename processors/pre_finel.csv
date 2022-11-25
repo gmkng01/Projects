@@ -1,0 +1,585 @@
+Model,Family,Platform,Launch_Date,CPU_Core,Threads,Base_Clock_GHz,Boost_Clock_GHz,L1_Cache,L2_Cache,L3_Cache,Unlocked_for_Overclocking,Chip_lithography,CPU_Socket,PCI_Express_Version,Default_TDP,Max._Operating_Temperature_(Tjmax),System_Memory_Type,Graphics_Model
+Ryzen-Threadripper-PRO-5995WX,AMD Ryzen PRO Processors,Desktop,,64.0,128.0,2.7GHz,Up to 4.5GHz,4096KB,32MB,256MB,No,TSMC 7nm FinFET,sWRX8,PCIe 4.0,280W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-Threadripper-PRO-5975WX,AMD Ryzen PRO Processors,Desktop,,32.0,64.0,3.6GHz,Up to 4.5GHz,2048KB,16MB,128MB,No,TSMC 7nm FinFET,sWRX8,PCIe 4.0,280W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-Threadripper-PRO-5965WX,AMD Ryzen PRO Processors,Desktop,,24.0,48.0,3.8GHz,Up to 4.5GHz,1536KB,12MB,128MB,No,TSMC 7nm FinFET,sWRX8,PCIe 4.0,280W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-Threadripper-PRO-5955WX,AMD Ryzen PRO Processors,Desktop,,16.0,32.0,4.0GHz,Up to 4.5GHz,1024KB,8MB,64MB,No,TSMC 7nm FinFET,sWRX8,PCIe 4.0,280W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-Threadripper-PRO-5945WX,AMD Ryzen PRO Processors,Desktop,,12.0,24.0,4.1GHz,Up to 4.5GHz,765KB,6MB,64MB,No,TSMC 7nm FinFET,sWRX8,PCIe 4.0,280W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-9-5950X,AMD Ryzen Processors,Boxed Processor,11/5/2020,16.0,32.0,3.4GHz,Up to 4.9GHz,,8MB,64MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0,105W,90°C,DDR4,Discrete Graphics Card Required
+Ryzen-9-5900X,AMD Ryzen Processors,Boxed Processor,11/5/2020,12.0,24.0,3.7GHz,Up to 4.8GHz,,6MB,64MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0,105W,90°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-5800X3D,AMD Ryzen Processors,Desktop,,8.0,16.0,3.4GHz,Up to 4.5GHz,512KB,4MB,96MB,,TSMC 7nm FinFET,AM4,PCIe 4.0,105W,90°C,DDR4,Discrete Graphics Card Required
+Ryzen-9-5900,AMD Ryzen Processors,Desktop,1/12/2021,12.0,24.0,3.0GHz,Up to 4.7GHz,,6MB,64MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-5800X,AMD Ryzen Processors,Boxed Processor,11/5/2020,8.0,16.0,3.8GHz,Up to 4.7GHz,,4MB,32MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0,105W,90°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-5800,AMD Ryzen Processors,Desktop,1/12/2021,8.0,16.0,3.4GHz,Up to 4.6GHz,,4MB,32MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-5600X,AMD Ryzen Processors,Boxed Processor,11/5/2020,6.0,12.0,3.7GHz,Up to 4.6GHz,,3MB,32MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-5700X,AMD Ryzen Processors,Desktop,,8.0,16.0,3.4GHz,Up to 4.6GHz,512KB,4MB,32MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0,65W,90°C,DDR4,Discrete Graphics Card Required
+Ryzen-9-6980HX,AMD Ryzen Processors,Laptop,,8.0,16.0,3.3GHz,Up to 5.0GHz,512KB,4MB,16MB,Yes,TSMC 6nm FinFET,FP7,PCIe® 4.0,45W,95°C,DDR5,AMD Radeon 680M
+Ryzen-9-3900XT,AMD Ryzen Processors,Boxed Processor,7/2020,12.0,24.0,3.8GHz,Up to 4.7GHz,,6MB,64MB,Yes,TSMC 7nm FinFET,,PCIe 4.0,105W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-5600,AMD Ryzen Processors,Desktop,,6.0,12.0,3.5GHz,Up to 4.4GHz,384KB,3MB,32MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0,65W,90°C,DDR4,Discrete Graphics Card Required
+Ryzen-9-6980HS,AMD Ryzen Processors,Laptop,,8.0,16.0,3.3GHz,Up to 5.0GHz,512KB,4MB,16MB,No,TSMC 6nm FinFET,FP7,PCIe® 4.0,35W,95°C,DDR5,AMD Radeon 680M
+Ryzen-9-6900HX,AMD Ryzen Processors,Laptop,,8.0,16.0,3.3GHz,Up to 4.9GHz,512KB,4MB,16MB,Yes,TSMC 6nm FinFET,FP7,PCIe® 4.0,45W,95°C,DDR5,AMD Radeon 680M
+Ryzen-5-5500,AMD Ryzen Processors,Desktop,,6.0,12.0,3.6GHz,Up to 4.2GHz,384KB,3MB,16MB,Yes,TSMC 7nm FinFET,AM4,PCIe 3.0,65W,90°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-3800XT,AMD Ryzen Processors,Boxed Processor,7/2020,8.0,16.0,3.9GHz,Up to 4.7GHz,,4MB,32MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0,105W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-9-6900HS,AMD Ryzen Processors,Laptop,,8.0,16.0,3.3GHz,Up to 4.9GHz,512KB,4MB,16MB,No,TSMC 6nm FinFET,,PCIe® 4.0,35W,95°C,DDR5,AMD Radeon 680M
+Ryzen-5-4500,AMD Ryzen Processors,Desktop,,6.0,12.0,3.6GHz,Up to 4.1GHz,384KB,3MB,8MB,Yes,TSMC 7nm FinFET,AM4,PCIe 3.0,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-6800H,AMD Ryzen Processors,Laptop,,8.0,16.0,3.2GHz,Up to 4.7GHz,512KB,4MB,16MB,No,TSMC 6nm FinFET,FP7,PCIe® 4.0,45W,95°C,DDR5,AMD Radeon 680M
+Ryzen-7-6800HS,AMD Ryzen Processors,Laptop,,8.0,16.0,3.2GHz,Up to 4.7GHz,512KB,4MB,16MB,No,TSMC 6nm FinFET,FP7,PCIe® 4.0,35W,95°C,DDR5,AMD Radeon 680M
+Ryzen-5-3600XT,AMD Ryzen Processors,Boxed Processor,7/2020,6.0,12.0,3.8GHz,Up to 4.5GHz,,3MB,32MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0,95W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-Threadripper-PRO-3995WX,AMD Ryzen PRO Processors,Desktop,7/14/2020,64.0,128.0,2.7GHz,Up to 4.2GHz,4096KB,32MB,256MB,No,TSMC 7nm FinFET,sWRX8,PCIe 4.0,280W,90°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-6800U,AMD Ryzen Processors,Laptop,,8.0,16.0,2.7GHz,Up to 4.7GHz,512KB,4MB,16MB,No,TSMC 6nm FinFET,FP7,PCIe® 4.0,,95°C,DDR5,AMD Radeon 680M
+Ryzen-Threadripper-PRO-3975WX,AMD Ryzen PRO Processors,Desktop,7/14/2020,32.0,64.0,3.5GHz,Up to 4.2GHz,2048KB,16MB,128MB,No,TSMC 7nm FinFET,sWRX8,PCIe 4.0,280W,90°C,DDR4,Discrete Graphics Card Required
+Ryzen-Threadripper-PRO-3955WX,AMD Ryzen PRO Processors,Desktop,7/14/2020,16.0,32.0,3.9GHz,Up to 4.3GHz,1024KB,8MB,64MB,No,TSMC 7nm FinFET,sWRX8,PCIe 4.0,280W,90°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-6600H,AMD Ryzen Processors,Laptop,,6.0,12.0,3.3GHz,Up to 4.5GHz,384KB,3MB,16MB,No,TSMC 6nm FinFET,FP7,PCIe® 4.0,45W,95°C,DDR5,AMD Radeon 660M
+Ryzen-Threadripper-PRO-3945WX,AMD Ryzen PRO Processors,Desktop,7/14/2020,12.0,24.0,4.0GHz,Up to 4.3GHz,768KB,6MB,64MB,No,TSMC 7nm FinFET,,PCIe 4.0,280W,90°C,DDR4,Discrete Graphics Card Required
+Ryzen-Threadripper-3990X,AMD Ryzen Processors,Boxed Processor,,64.0,128.0,2.9GHz,Up to 4.3GHz,4096KB,32MB,256MB,Yes,TSMC 7nm FinFET,sTRX4,PCIe 4.0,280W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-9-5980HX,AMD Ryzen Processors,Laptop,1/12/2021,8.0,16.0,3.3GHz,Up to 4.8GHz,,4MB,16MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,45+W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-5-6600HS,AMD Ryzen Processors,Laptop,,6.0,12.0,3.3GHz,Up to 4.5GHz,384KB,3MB,16MB,No,TSMC 6nm FinFET,FP7,PCIe® 4.0,35W,95°C,DDR5,AMD Radeon 660M
+Ryzen-9-5980HS,AMD Ryzen Processors,Laptop,1/12/2021,8.0,16.0,3.0GHz,Up to 4.8GHz,,4MB,16MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,35W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-5-6600U,AMD Ryzen Processors,Laptop,,6.0,12.0,2.9GHz,Up to 4.5GHz,384KB,3MB,16MB,No,TSMC 6nm FinFET,FP7,PCIe® 4.0,,95°C,DDR5,AMD Radeon 660M
+Ryzen-7-5825U,AMD Ryzen Processors,Laptop,,8.0,16.0,2.0GHz,Up to 4.5GHz,512KB,4MB,16MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,95°C,DDR4,AMD Radeon Graphics
+Ryzen-Threadripper-3970X,AMD Ryzen Processors,Boxed Processor,11/25/2019,32.0,64.0,3.7GHz,Up to 4.5GHz,2048KB,16MB,128MB,Yes,TSMC 7nm FinFET,sTRX4,PCIe 4.0,280W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-9-5900HX,AMD Ryzen Processors,Laptop,1/12/2021,8.0,16.0,3.3GHz,Up to 4.6GHz,,4MB,16MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,45+W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-9-5900HS,AMD Ryzen Processors,Laptop,1/12/2021,8.0,16.0,3.0GHz,Up to 4.6GHz,8KB,4MB,16MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,35W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-7-5825C,AMD Ryzen Processors,Laptop,,8.0,16.0,2.0GHz,Up to 4.5GHz,512KB,4MB,16MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,95°C,DDR4,AMD Radeon Graphics
+Ryzen-Threadripper-3960X,AMD Ryzen Processors,Boxed Processor,11/25/2019,24.0,48.0,3.8GHz,Up to 4.5GHz,1536KB,12MB,128MB,Yes,TSMC 7nm FinFET,sTRX4,PCIe 4.0,280W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-5800H,AMD Ryzen Processors,Laptop,1/12/2021,8.0,16.0,3.2GHz,Up to 4.4GHz,,4MB,16MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,45W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-5-5625U,AMD Ryzen Processors,Laptop,,6.0,12.0,2.3GHz,Up to 4.3GHz,384KB,3MB,16MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,95°C,DDR4,AMD Radeon Graphics
+Ryzen-5-5625C,AMD Ryzen Processors,Laptop,,6.0,12.0,2.3GHz,Up to 4.3GHz,384KB,3MB,16MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,95°C,DDR4,AMD Radeon Graphics
+Ryzen-7-5800HS,AMD Ryzen Processors,Laptop,1/12/2021,8.0,16.0,2.8GHz,Up to 4.4GHz,,4MB,16MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,35W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-9-3950X,AMD Ryzen Processors,Boxed Processor,,16.0,32.0,3.5GHz,Up to 4.7GHz,1024KB,8MB,64MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0,105W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-5600H,AMD Ryzen Processors,Laptop,1/12/2021,6.0,12.0,3.3GHz,Up to 4.2GHz,,3MB,16MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,45W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-5-5600HS,AMD Ryzen Processors,Laptop,1/12/2021,6.0,12.0,3.0GHz,Up to 4.2GHz,,3MB,16MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,35W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-7-5800U,AMD Ryzen Processors,Laptop,1/12/2021,8.0,16.0,1.9GHz,Up to 4.4GHz,,4MB,16MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-9-3900X,AMD Ryzen Processors,Boxed Processor,7/7/2019,12.0,24.0,3.8GHz,Up to 4.6GHz,768KB,6MB,64MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0 x16,105W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-5700U,AMD Ryzen Processors,Laptop,1/12/2021,8.0,16.0,1.8GHz,Up to 4.3GHz,,4MB,8MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-5-5560U,AMD Ryzen Processors,Laptop,,6.0,12.0,2.3GHz,Up to 4.0GHz,384KB,3MB,8MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4, LPDDR4X",Radeon  Graphics
+Ryzen-9-3900,AMD Ryzen Processors,Desktop,9/24/2019,12.0,24.0,3.1GHz,Up to 4.3GHz,768KB,6MB,64MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-5600U,AMD Ryzen Processors,Laptop,1/12/2021,6.0,12.0,2.3GHz,Up to 4.2GHz,,3MB,16MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-3-5425U,AMD Ryzen Processors,Laptop,,4.0,8.0,2.7GHz,Up to 4.1GHz,256KB,2MB,8MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,95°C,DDR4,AMD Radeon Graphics
+Ryzen-3-5425C,AMD Ryzen Processors,Laptop,,4.0,8.0,2.7GHz,Up to 4.1GHz,256KB,2MB,8MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,95°C,DDR4,AMD Radeon Graphics
+Ryzen-5-5500U,AMD Ryzen Processors,Laptop,1/12/2021,6.0,12.0,2.1GHz,Up to 4.0GHz,,3MB,8MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-7-3800X,AMD Ryzen Processors,Boxed Processor,7/7/2019,8.0,16.0,3.9GHz,Up to 4.5GHz,512KB,4MB,32MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0 x16,105W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-3-5400U,AMD Ryzen Processors,Laptop,1/12/2021,4.0,8.0,2.6GHz,Up to 4.0GHz,,2MB,8MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-3-5300U,AMD Ryzen Processors,Laptop,1/12/2021,4.0,8.0,2.6GHz,Up to 3.8GHz,,2MB,4MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-7-5700G,AMD Ryzen Processors,Boxed Processor,4/13/2021,8.0,16.0,3.8GHz,Up to 4.6GHz,,4MB,16MB,Yes,TSMC 7nm FinFET,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon  Graphics
+Ryzen-7-3700X,AMD Ryzen Processors,Boxed Processor,7/7/2019,8.0,16.0,3.6GHz,Up to 4.4GHz,512KB,4MB,32MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-3-4100,AMD Ryzen Processors,Desktop,,4.0,8.0,3.8GHz,Up to 4.0GHz,256KB,2MB,4MB,Yes,TSMC 7nm FinFET,AM4,PCIe 3.0,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-3-5125C,AMD Ryzen Processors,Laptop,,2.0,4.0,3.0GHz,Up to 3.0GHz,128KB,1MB,8MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,95°C,DDR4,AMD Radeon Graphics
+Ryzen-7-5700GE,AMD Ryzen Processors,Desktop,4/13/2021,8.0,16.0,3.2GHz,Up to 4.6GHz,,4MB,16MB,Yes,TSMC 7nm FinFET,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+Ryzen-5-3600X,AMD Ryzen Processors,Boxed Processor,7/7/2019,6.0,12.0,3.8GHz,Up to 4.4GHz,384KB,3MB,32MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0 x16,95W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-5600G,AMD Ryzen Processors,Boxed Processor,4/13/2021,6.0,12.0,3.9GHz,Up to 4.4GHz,,3MB,16MB,Yes,TSMC 7nm FinFET,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon  Graphics
+Ryzen-5-5600GE,AMD Ryzen Processors,Desktop,4/13/2021,6.0,12.0,3.4GHz,Up to 4.4GHz,,3MB,16MB,Yes,TSMC 7nm FinFET,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+Ryzen-5-3600,AMD Ryzen Processors,Boxed Processor,7/7/2019,6.0,12.0,3.6GHz,Up to 4.2GHz,384KB,3MB,32MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-3-5300G,AMD Ryzen Processors,Desktop,4/13/2021,4.0,8.0,4.0GHz,Up to 4.2GHz,,2MB,8MB,Yes,TSMC 7nm FinFET,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon  Graphics
+Ryzen-3-5300GE,AMD Ryzen Processors,Desktop,4/13/2021,4.0,8.0,3.6GHz,Up to 4.2GHz,,2MB,8MB,Yes,TSMC 7nm FinFET,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+Ryzen-3-3300X,AMD Ryzen Processors,Boxed Processor,05/2020,4.0,8.0,3.8GHz,Up to 4.3GHz,256KB,2MB,16MB,Yes,TSMC 7nm FinFET,AM4,PCIe® 4.0,65W,,DDR4,Discrete Graphics Card Required
+Ryzen-7-4700G,AMD Ryzen Processors,Desktop,7/21/2020,8.0,16.0,3.6GHz,Up to 4.4GHz,512KB,4MB,8MB,Yes,TSMC 7nm FinFET,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon Graphics
+Ryzen-3-3300X,AMD Ryzen Processors,Boxed Processor,05/01/2020,4.0,8.0,3.8GHz,Up to 4.3GHz,256KB,2MB,16MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0,65W,,DDR4,Discrete Graphics Card Required
+Ryzen-3-3100,AMD Ryzen Processors,Boxed Processor,05/2020,4.0,8.0,3.6GHz,Up to 3.9GHz,256KB,2MB,16MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0,65W,,DDR4,Discrete Graphics Card Required
+Ryzen-5-4600G,AMD Ryzen Processors,Desktop,7/21/2020,6.0,12.0,3.7GHz,Up to 4.2GHz,384KB,3MB,8MB,Yes,TSMC 7nm FinFET,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon  Graphics
+Ryzen-5-3500,AMD Ryzen Processors,Desktop,,6.0,6.0,3.6GHz,Up to 4.1GHz,384KB,3MB,16MB,Yes,TSMC 7nm FinFET,AM4,PCIe 4.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-3-4300G,AMD Ryzen Processors,Desktop,7/21/2020,4.0,8.0,3.8GHz,Up to 4.0GHz,256KB,2MB,4MB,Yes,TSMC 7nm FinFET,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon  Graphics
+Ryzen-7-4700GE,AMD Ryzen Processors,Desktop,7/21/2020,8.0,16.0,3.1GHz,Up to 4.3GHz,512KB,4MB,8MB,Yes,TSMC 7nm FinFET,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+Ryzen-5-4600GE,AMD Ryzen Processors,Desktop,7/21/2020,6.0,12.0,3.3GHz,Up to 4.2GHz,384KB,3MB,8MB,Yes,TSMC 7nm FinFET,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+Ryzen-3-4300GE,AMD Ryzen Processors,Desktop,7/21/2020,4.0,8.0,3.5GHz,Up to 4.0GHz,256KB,2MB,4MB,Yes,TSMC 7nm FinFET,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+Ryzen-9-4900H,AMD Ryzen Processors,Laptop,3/16/20,8.0,16.0,3.3GHz,Up to 4.4GHz,,4MB,8MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,35-54W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-9-4900HS,AMD Ryzen Processors,Laptop,,8.0,16.0,3.0GHz,Up to 4.3GHz,,4MB,8MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,35W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-7-4800HS,AMD Ryzen Processors,Laptop,,8.0,16.0,2.9GHz,Up to 4.2GHz,,4MB,8MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,45W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-7-4800H,AMD Ryzen Processors,Laptop,1/6/2020,8.0,16.0,2.9GHz,Up to 4.2GHz,,4MB,8MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,45W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-5-4600H,AMD Ryzen Processors,Laptop,1/6/2020,6.0,12.0,3.0GHz,Up to 4.0GHz,,3MB,8MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,45W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-7-4800U,AMD Ryzen Processors,Laptop,1/6/2020,8.0,16.0,1.8GHz,Up to 4.2GHz,,4MB,8MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-7-4700U,AMD Ryzen Processors,Laptop,1/6/2020,8.0,8.0,2.0GHz,Up to 4.1GHz,,4MB,8MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-5-4600U,AMD Ryzen Processors,Laptop,1/6/2020,6.0,12.0,2.1GHz,Up to 4.0GHz,,3MB,8MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-5-4500U,AMD Ryzen Processors,Laptop,1/6/2020,6.0,6.0,2.3GHz,Up to 4.0GHz,,3MB,8MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-3-4300U,AMD Ryzen Processors,Laptop,1/6/2020,4.0,4.0,2.7GHz,Up to 3.7GHz,,2MB,4MB,,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-3-3250U,AMD Ryzen Processors,Laptop,1/6/2020,2.0,4.0,2.6GHz,Up to 3.5GHz,192KB,1MB,4MB,,14nm,FP5,PCIe® 3.0,15W,95°C,DDR4,AMD Radeon Graphics
+Ryzen-5-3400G,AMD Ryzen Processors,Boxed Processor,,4.0,8.0,3.7GHz,Up to 4.2GHz,384KB,2MB,4MB,Yes,12nm FinFET,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon RX Vega 11 Graphics
+Ryzen-7-4980U,AMD Ryzen Processors,Laptop,4/13/2021,8.0,16.0,2.0GHz,Up to 4.4GHz,512KB,4MB,8MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,LPDDR4,Radeon  Graphics
+Ryzen-5-3400GE,AMD Ryzen Processors,Desktop,7/7/19,4.0,8.0,3.3GHz,Up to 4.0GHz,384KB,2MB,4MB,Yes,12nm,AM4,PCIe® 3.0,35W,95°C,,Radeon Vega 11 Graphics
+Ryzen-5-4680U,AMD Ryzen Processors,Laptop,4/13/2021,6.0,12.0,2.2GHz,Up to 4.0GHz,384KB,3MB,8MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,LPDDR4,Radeon  Graphics
+Ryzen-7-3780U,AMD Ryzen Processors,Laptop,,4.0,8.0,2.3GHz,Up to 4.0GHz,384KB,2MB,4MB,No,12nm,FP5,PCIe® 3.0,15W,105°C,,Radeon RX Vega 11 Graphics
+Ryzen-3-3200G,AMD Ryzen Processors,Boxed Processor,7/7/2019,4.0,4.0,3.6GHz,Up to 4.0GHz,384KB,2MB,4MB,Yes,12nm FinFET,AM4,PCIe® 3.0 x8,65W,95°C,DDR4,Radeon Vega 8 Graphics
+Ryzen-3-3200GE,AMD Ryzen Processors,Desktop,7/7/19,4.0,4.0,3.3GHz,Up to 3.8GHz,384KB,2MB,4MB,Yes,12nm,AM4,PCIe® 3.0,35W,95°C,,Radeon Vega 8 Graphics
+Athlon-320GE,AMD Athlon Processors,Desktop,7/7/2019,2.0,4.0,3.5GHz,,192KB,1MB,4MB,Yes,14nm FinFET,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon Vega 3 Graphics
+Athlon-300GE,AMD Athlon Processors,Desktop,7/7/19,2.0,4.0,3.4GHz,,192KB,1MB,4MB,Yes,14nm,AM4,PCIe® 3.0,35W,95°C,,Radeon Vega 3 Graphics
+Ryzen-7-3750H,AMD Ryzen Processors,Laptop,Q1 2019,4.0,8.0,2.3GHz,Up to 4.0GHz,384KB,2MB,4MB,No,12nm,FP5,PCIe® 3.0,35W,105°C,,Radeon RX Vega 10 Graphics
+Ryzen-5-3550H,AMD Ryzen Processors,Laptop,Q1 2019,4.0,8.0,2.1GHz,Up to 3.7GHz,384KB,2MB,4MB,No,12nm,FP5,PCIe® 3.0,35W,105°C,,Radeon Vega 8 Graphics
+Ryzen-7-3700U,AMD Ryzen Processors,Laptop,Q1 2019,4.0,8.0,2.3GHz,Up to 4.0GHz,384KB,2MB,4MB,No,12nm,FP5,PCIe® 3.0,15W,105°C,DDR4,Radeon RX Vega 10 Graphics
+Ryzen-5-3500U,AMD Ryzen Processors,Laptop,Q1 2019,4.0,8.0,2.1GHz,Up to 3.7GHz,384KB,2MB,4MB,No,12nm,FP5,PCIe® 3.0,15W,105°C,,Radeon Vega 8 Graphics
+Ryzen-3-3350U,AMD Ryzen Processors,Laptop,Q1 2019,4.0,4.0,2.1GHz,Up to 3.5GHz,348KB,2MB,4MB,No,12nm,FP5,PCIe® 3.0,15W,105°C,,Radeon Vega 6 Graphics
+Ryzen-3-3300U,AMD Ryzen Processors,Laptop,Q1 2019,4.0,4.0,2.1GHz,Up to 3.5GHz,384KB,2MB,4MB,No,12nm,FP5,PCIe® 3.0,15W,105°C,,Radeon Vega 6 Graphics
+Ryzen-5-3580U,AMD Ryzen Processors,Laptop,,4.0,8.0,2.1GHz,Up to 3.7GHz,384KB,2MB,4MB,No,12nm,FP5,PCIe® 3.0,15W,105°C,,Radeon Vega 9 Graphics
+Ryzen-7-3700C,AMD Ryzen Processors,Laptop,9/22/2020,4.0,8.0,2.3GHz,Up to 4.0GHz,384KB,2MB,4MB,No,12nm,FP5,,15W,105°C,,AMD Radeon Graphics
+Ryzen-5-3450U,AMD Ryzen Processors,Laptop,Q2 2020,4.0,8.0,2.1GHz,Up to 3.5GHz,384KB,2MB,4MB,No,12nm,FP5,PCIe® 3.0,15W,105°C,,Radeon Vega 8 Graphics
+Ryzen-3-3200U,AMD Ryzen Processors,Laptop,Q1 2019,2.0,4.0,2.6GHz,Up to 3.5GHz,192KB,1MB,4MB,No,14nm,FP5,PCIe® 3.0,15W,105°C,,Radeon Vega 3 Graphics
+Ryzen-5-3500C,AMD Ryzen Processors,Laptop,9/22/2020,4.0,8.0,2.1GHz,Up to 3.7GHz,384KB,2MB,4MB,No,12nm,FP5,,15W,105°C,,AMD Radeon Graphics
+Athlon-300U,AMD Athlon Processors,Laptop,,2.0,4.0,2.4GHz,Up to 3.3GHz,193KB,1MB,4MB,No,14nm,FP5,,15W,105°C,,Radeon Vega 3 Graphics
+Athlon-Gold-3150U,AMD Athlon Processors,Laptop,1/6/2020,2.0,4.0,2.4GHz,Up to 3.3GHz,192KB,1MB,4MB,,14nm,FP5,,15W,95°C,DDR4,AMD Radeon Graphics
+Ryzen-3-3250C,AMD Ryzen Processors,Laptop,9/22/2020,2.0,4.0,2.6GHz,Up to 3.5GHz,192KB,1MB,4MB,No,14nm,FP5,,15W,105°C,,AMD Radeon Graphics
+Athlon-Silver-3050U,AMD Athlon Processors,Laptop,1/6/2020,2.0,2.0,2.3GHz,Up to 3.2GHz,192KB,1MB,4MB,,14nm,FP5,PCIe® 3.0,15W,95°C,DDR4,AMD Radeon Graphics
+Athlon-Silver-3050e,AMD Athlon Processors,Laptop,1/6/2020,2.0,4.0,1.4GHz,Up to 2.8GHz,,1MB,4MB,,14nm,,PCIe® 3.0,6W,,DDR4,AMD Radeon Graphics
+Athlon-Gold-3150C,AMD Athlon Processors,Laptop,9/22/2020,2.0,4.0,2.4GHz,Up to 3.3GHz,192KB,1MB,4MB,No,14nm,FP5,,15W,95°C,,AMD Radeon Graphics
+Athlon--Silver-3050C,AMD Athlon Processors,Laptop,9/22/2020,2.0,2.0,2.3GHz,Up to 3.2GHz,192KB,1MB,4MB,No,14nm,FP5,,15W,95°C,,AMD Radeon Graphics
+Athlon-Gold-3150GE,AMD Athlon Processors,Desktop,7/21/2020,4.0,4.0,3.3GHz,Up to 3.8GHz,384KB,2MB,4MB,Yes,12nm,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+3020e,AMD,Laptop,1/6/2020,2.0,2.0,1.2GHz,Up to 2.6GHz,,1MB,4MB,,14nm,,PCIe® 3.0,6W,,DDR4,AMD Radeon Graphics
+Athlon-Gold-3150G,AMD Athlon Processors,Desktop,7/21/2020,4.0,4.0,3.5GHz,Up to 3.9GHz,384KB,2MB,4MB,Yes,12nm,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon  Graphics
+Athlon-Silver-3050GE,AMD Athlon Processors,Desktop,7/21/2020,2.0,4.0,3.4GHz,Up to 3.4GHz,192KB,1MB,4MB,Yes,14nm,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+3015e,AMD,Laptop,7/6/2020,2.0,4.0,1.2GHz,Up to 2.3GHz,,1MB,4MB,No,14nm,FT5,PCIe® 3.0,6W,105°C,DDR4,AMD Radeon Graphics
+3015Ce,AMD,Laptop,4/29/2021,2.0,4.0,1.2GHz,Up to 2.3GHz,,1MB,4MB,No,14nm,FT5,PCIe® 3.0,6W,105°C,DDR4,Radeon  Graphics
+Ryzen-Threadripper-2990WX,AMD Ryzen Processors,Boxed Processor,8/13/2018,32.0,64.0,3.0GHz,Up to 4.2GHz,3072KB,16MB,64MB,Yes,12nm,sTR4,PCIe 3.0,250W,68°C,DDR4,Discrete Graphics Card Required
+Ryzen-Threadripper-2970WX,AMD Ryzen Processors,Boxed Processor,10/18,24.0,48.0,3.0GHz,Up to 4.2GHz,2304KB,12MB,64MB,Yes,12nm,sTR4,PCIe 3.0,250W,68°C,DDR4,Discrete Graphics Card Required
+Ryzen-Threadripper-2950X,AMD Ryzen Processors,Boxed Processor,8/31/2018,16.0,32.0,3.5GHz,Up to 4.4GHz,1536KB,8MB,32MB,Yes,12nm,sTR4,PCIe 3.0,180W,68°C,DDR4,Discrete Graphics Card Required
+Ryzen-Threadripper-2920X,AMD Ryzen Processors,Boxed Processor,10/18,12.0,24.0,3.5GHz,Up to 4.3GHz,1152KB,6MB,32MB,Yes,12nm,sTR4,PCIe 3.0,180W,68°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-2700X,AMD Ryzen Processors,Boxed Processor,04/19/2018,8.0,16.0,3.7GHz,Up to 4.3GHz,768KB,4MB,16MB,Yes,12nm FinFET,AM4,PCIe 3.0 x16,105W,85°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-2700,AMD Ryzen Processors,Boxed Processor,04/19/2018,8.0,16.0,3.2GHz,Up to 4.1GHz,768KB,4MB,16MB,Yes,12nm FinFET,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-2700E,AMD Ryzen Processors,Desktop,September 2018,8.0,16.0,2.8GHz,Up to 4.0GHz,768KB,4MB,16MB,Yes,12nm,AM4,PCIe 3.0,45W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-2600X,AMD Ryzen Processors,Boxed Processor,04/19/2018,6.0,12.0,3.6GHz,Up to 4.2GHz,576KB,3MB,16MB,Yes,12nm FinFET,AM4,PCIe 3.0 x16,95W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-2600,AMD Ryzen Processors,Boxed Processor,04/19/2018,6.0,12.0,3.4GHz,Up to 3.9GHz,576KB,3MB,16MB,Yes,12nm FinFET,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-2600E,AMD Ryzen Processors,Desktop,September 2018,6.0,12.0,3.1GHz,Up to 4.0GHz,578KB,3MB,16MB,Yes,12nm,AM4,PCIe 3.0,45W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-2500X,AMD Ryzen Processors,Desktop,9/10/2018,4.0,8.0,3.6GHz,Up to 4.0GHz,384KB,2MB,8MB,Yes,12nm,AM4,PCIe 3.0,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-2400G,AMD Ryzen Processors,Boxed Processor,02/12/2018,4.0,8.0,3.6GHz,Up to 3.9GHz,384KB,2MB,4MB,Yes,14nm FinFET,AM4,PCIe® 3.0 x8,65W,95°C,DDR4,Radeon RX Vega 11 Graphics
+Ryzen-5-2400GE,AMD Ryzen Processors,Desktop,04/19/2018,4.0,8.0,3.2GHz,Up to 3.8GHz,384KB,2MB,4MB,Yes,14nm FinFET,AM4,PCIe® 3.0 x8,35W,95°C,DDR4,Radeon RX Vega 11 Graphics
+Ryzen-3-2300X,AMD Ryzen Processors,Desktop,9/10/2018,4.0,4.0,3.5GHz,Up to 4.0GHz,384KB,2MB,8MB,Yes,12nm,AM4,PCIe 3.0,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-3-2200G,AMD Ryzen Processors,Boxed Processor,02/12/2018,4.0,4.0,3.5GHz,Up to 3.7GHz,384KB,2MB,4MB,Yes,14nm FinFET,AM4,PCIe® 3.0 x8,65W,95°C,DDR4,Radeon Vega 8 Graphics
+Ryzen-9-PRO-6950H,AMD Ryzen PRO Processors,Laptop,,8.0,16.0,3.3GHz,Up to 4.9GHz,384KB,4MB,16MB,No,TSMC 6nm FinFET,,PCIe® 4.0,45W,95°C,DDR5,AMD Radeon 680M
+Ryzen-9-PRO-6950HS,AMD Ryzen PRO Processors,Laptop,,8.0,16.0,3.3GHz,Up to 4.9GHz,512KB,4MB,16MB,No,TSMC 6nm FinFET,,PCIe® 4.0,35W,94.99°C,DDR5,AMD Radeon 680M
+Ryzen-7-PRO-6860Z,AMD Ryzen PRO Processors,Laptop,,8.0,16.0,2.7GHz,Up to 4.75GHz,512KB,4MB,16MB,,TSMC 6nm FinFET,,PCIe® 4.0,28W,95°C,DDR5,AMD Radeon 680M
+Ryzen-3-2200GE,AMD Ryzen Processors,Desktop,04/19/2018,4.0,4.0,3.2GHz,Up to 3.6GHz,384KB,2MB,4MB,Yes,14nm FinFET,AM4,PCIe® 3.0 x8,35W,95°C,DDR4,Radeon Vega 8 Graphics
+Ryzen-7-2800H,AMD Ryzen Processors,Laptop,9/10/2018,4.0,8.0,3.3GHz,Up to 3.8GHz,192KB,2MB,4MB,No,14nm,FP5,PCIe® 3.0,45W,95°C,,Radeon RX Vega 11 Graphics
+Ryzen-5-2600H,AMD Ryzen Processors,Laptop,9/10/2018,4.0,8.0,3.2GHz,Up to 3.6GHz,192KB,2MB,4MB,No,14nm,FP5,PCIe® 3.0,45W,95°C,,Radeon Vega 8 Graphics
+Ryzen-7-PRO-6850H,AMD Ryzen PRO Processors,Laptop,,8.0,16.0,3.2GHz,Up to 4.7GHz,512KB,4MB,16MB,No,TSMC 6nm FinFET,,PCIe® 4.0,45W,95°C,DDR5,AMD Radeon 680M
+Ryzen-7-2700U,AMD Ryzen Processors,Laptop,10/26/2017,4.0,8.0,2.2GHz,Up to 3.8GHz,384KB,2MB,4MB,No,14nm,FP5,PCIe® 3.0,15W,95°C,DDR4,Radeon RX Vega 10 Graphics
+Ryzen-7-PRO-6850HS,AMD Ryzen PRO Processors,Laptop,,8.0,16.0,3.2GHz,Up to 4.7GHz,512KB,4MB,16MB,No,TSMC 6nm FinFET,,PCIe® 4.0,35W,95°C,DDR5,AMD Radeon 680M
+Ryzen-5-2500U,AMD Ryzen Processors,Laptop,10/26/2017,4.0,8.0,2.0GHz,Up to 3.6GHz,384KB,2MB,4MB,No,14nm,FP5,PCIe® 3.0,15W,95°C,DDR4,Radeon Vega 8 Graphics
+Ryzen-3-2300U,AMD Ryzen Processors,Laptop,1/8/2018,4.0,4.0,2.0GHz,Up to 3.4GHz,384KB,2MB,4MB,No,14nm,FP5,PCIe® 3.0,15W,95°C,DDR4,Radeon Vega 6 Graphics
+Ryzen-7-PRO-6850U,AMD Ryzen PRO Processors,Laptop,,8.0,16.0,2.7GHz,Up to 4.7GHz,512KB,4MB,16MB,No,TSMC 6nm FinFET,,PCIe® 4.0,,95°C,DDR5,AMD Radeon 680M
+Ryzen-3-2200U,AMD Ryzen Processors,Laptop,1/8/2018,2.0,4.0,2.5GHz,Up to 3.4GHz,384KB,1MB,4MB,No,14nm,FP5,PCIe® 3.0,15W,95°C,DDR4,Radeon Vega 3 Graphics
+Ryzen-5-PRO-6650H,AMD Ryzen PRO Processors,Laptop,,6.0,12.0,3.3GHz,Up to 4.5GHz,384KB,3MB,16MB,No,TSMC 6nm FinFET,,PCIe® 4.0,45W,95°C,DDR5,AMD Radeon 660M
+Ryzen-Threadripper-1950X,AMD Ryzen Processors,Boxed Processor,7/31/2017,16.0,32.0,3.4GHz,Up to 4.0GHz,1536KB,8MB,32MB,Yes,14nm,sTR4,PCIe 3.0,180W,68°C,DDR4,Discrete Graphics Card Required
+Ryzen-Threadripper-1920X,AMD Ryzen Processors,Boxed Processor,7/31/2017,12.0,24.0,3.5GHz,Up to 4.0GHz,1152KB,6MB,32MB,Yes,14nm,sTR4,PCIe 3.0,180W,68°C,DDR4,Discrete Graphics Card Required
+Ryzen-Threadripper-1900X,AMD Ryzen Processors,Boxed Processor,8/31/2017,8.0,16.0,3.8GHz,Up to 4.0GHz,768KB,4MB,16MB,Yes,14nm,sTR4,PCIe 3.0,180W,68°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-PRO-6650HS,AMD Ryzen PRO Processors,Laptop,,6.0,12.0,3.3GHz,Up to 4.5GHz,384KB,3MB,16MB,No,TSMC 6nm FinFET,,PCIe® 4.0,35W,95°C,DDR5,AMD Radeon 660M
+Ryzen-7-1800X,AMD Ryzen Processors,Boxed Processor,3/2/2017,8.0,16.0,3.6GHz,Up to 4.0GHz,768KB,4MB,16MB,Yes,14nm,AM4,PCIe 3.0 x16,95W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-PRO-5650G,AMD Ryzen PRO Processors,Desktop,6/1/2021,6.0,12.0,3.9GHz,Up to 4.4GHz,,3MB,16MB,No,TSMC 7nm FinFET,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon  Graphics
+Ryzen-5-PRO-5650GE,AMD Ryzen PRO Processors,Desktop,6/1/2021,6.0,12.0,3.4GHz,Up to 4.4GHz,,3MB,16MB,No,TSMC 7nm FinFET,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+Ryzen-9-PRO-3900,AMD Ryzen PRO Processors,Desktop,9/30/19,12.0,24.0,3.1GHz,Up to 4.3GHz,768KB,6MB,64MB,No,TSMC 7nm FinFET,AM4,PCIe 4.0,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-1700X,AMD Ryzen Processors,Boxed Processor,3/2/2017,8.0,16.0,3.4GHz,Up to 3.8GHz,768KB,4MB,16MB,Yes,14nm,AM4,PCIe 3.0 x16,95W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-PRO-6650U,AMD Ryzen PRO Processors,Laptop,,6.0,12.0,2.9GHz,Up to 4.5GHz,384KB,3MB,16MB,No,TSMC 6nm FinFET,,PCIe® 4.0,,95°C,DDR5,AMD Radeon 660M
+Ryzen-7-PRO-5875U,AMD Ryzen PRO Processors,Laptop,,8.0,16.0,2.0GHz,Up to 4.5GHz,512KB,4MB,16MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,95°C,DDR4,AMD Radeon Graphics
+Ryzen-7-PRO-3700,AMD Ryzen PRO Processors,Desktop,9/30/19,8.0,16.0,3.6GHz,Up to 4.4GHz,512KB,4MB,32MB,No,TSMC 7nm FinFET,AM4,PCIe 4.0,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-1700,AMD Ryzen Processors,Boxed Processor,3/2/2017,8.0,16.0,3.0GHz,Up to 3.7GHz,768KB,4MB,16MB,Yes,14nm,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-PRO-5675U,AMD Ryzen PRO Processors,Laptop,,6.0,12.0,2.3GHz,Up to 4.3GHz,384KB,3MB,16MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,95°C,DDR4,AMD Radeon Graphics
+Ryzen-7-PRO-5850U,AMD Ryzen PRO Processors,Laptop,03/16/2021,8.0,16.0,1.9GHz,Up to 4.4GHz,,4MB,16MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4, LPDDR4",AMD Radeon Graphics
+Ryzen-7-PRO-5750G,AMD Ryzen PRO Processors,Desktop,6/1/2021,8.0,16.0,3.8GHz,Up to 4.6GHz,,4MB,16MB,No,TSMC 7nm FinFET,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon  Graphics
+Ryzen-3-PRO-5475U,AMD Ryzen PRO Processors,Laptop,,4.0,8.0,2.7GHz,Up to 4.1GHz,256KB,2MB,8MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,95°C,DDR4,AMD Radeon Graphics
+Ryzen-5-PRO-5650U,AMD Ryzen PRO Processors,Laptop,03/16/2021,6.0,12.0,2.3GHz,Up to 4.2GHz,,3MB,16MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4, LPDDR4",AMD Radeon Graphics
+Ryzen-3-PRO-5450U,AMD Ryzen PRO Processors,Laptop,03/16/2021,4.0,8.0,2.6GHz,Up to 4.0GHz,,2MB,8MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4, LPDDR4",AMD Radeon Graphics
+Ryzen-7-PRO-5750GE,AMD Ryzen PRO Processors,Desktop,6/1/2021,8.0,16.0,3.2GHz,Up to 4.6GHz,,4MB,16MB,No,TSMC 7nm FinFET,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+Ryzen-3-PRO-5350G,AMD Ryzen PRO Processors,Desktop,6/1/2021,4.0,8.0,4.0GHz,Up to 4.2GHz,,2MB,8MB,No,TSMC 7nm FinFET,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon  Graphics
+Ryzen-7-PRO-4750G,AMD Ryzen PRO Processors,Desktop,7/21/2020,8.0,16.0,3.6GHz,Up to 4.4GHz,512KB,4MB,8MB,No,TSMC 7nm FinFET,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon Graphics
+Ryzen-5-PRO-3600,AMD Ryzen PRO Processors,Desktop,9/30/19,6.0,12.0,3.6GHz,Up to 4.2GHz,384KB,3MB,32MB,No,TSMC 7nm FinFET,AM4,PCIe 4.0,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-1600X,AMD Ryzen Processors,Boxed Processor,4/11/2017,6.0,12.0,3.6GHz,Up to 4.0GHz,576KB,3MB,16MB,Yes,14nm,AM4,PCIe 3.0 x16,95W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-3-PRO-5350GE,AMD Ryzen PRO Processors,Desktop,6/1/2021,4.0,8.0,3.6GHz,Up to 4.2GHz,,2MB,8MB,No,TSMC 7nm FinFET,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+Ryzen-7-PRO-4750GE,AMD Ryzen PRO Processors,Desktop,7/21/2020,8.0,16.0,3.1GHz,Up to 4.3GHz,512KB,4MB,8MB,No,TSMC 7nm FinFET,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon Graphics
+Ryzen-5-PRO-4650G,AMD Ryzen PRO Processors,Desktop,7/21/2020,6.0,12.0,3.7GHz,Up to 4.2GHz,384KB,3MB,8MB,No,TSMC 7nm FinFET,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon Graphics
+Ryzen-5-PRO-4650GE,AMD Ryzen PRO Processors,Desktop,7/21/2020,6.0,12.0,3.3GHz,Up to 4.2GHz,384KB,3MB,8MB,No,TSMC 7nm FinFET,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon Graphics
+Ryzen-3-PRO-4350G,AMD Ryzen PRO Processors,Desktop,7/21/2020,4.0,8.0,3.8GHz,Up to 4.0GHz,256KB,2MB,4MB,No,TSMC 7nm FinFET,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon Graphics
+Ryzen-3-PRO-4350GE,AMD Ryzen PRO Processors,Desktop,7/21/2020,4.0,8.0,3.5GHz,Up to 4.0GHz,256KB,2MB,4MB,No,TSMC 7nm FinFET,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon Vega 6 Graphics
+Ryzen-5-1600,AMD Ryzen Processors,Boxed Processor,4/11/2017,6.0,12.0,3.2GHz,Up to 3.6GHz,576KB,3MB,16MB,Yes,14nm,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-1600-(AF),AMD Ryzen Processors,Boxed Processor,,6.0,12.0,3.2GHz,Up to 3.6GHz,576KB,3MB,16MB,Yes,12nm,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-PRO-3400G,AMD Ryzen PRO Processors,Desktop,9/30/19,4.0,8.0,3.7GHz,Up to 4.2GHz,384KB,2MB,4MB,No,12nm,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon Vega 11 Graphics
+Ryzen-5-1500X,AMD Ryzen Processors,Boxed Processor,4/11/2017,4.0,8.0,3.5GHz,Up to 3.7GHz,384KB,2MB,16MB,Yes,14nm,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-PRO-3400GE,AMD Ryzen PRO Processors,Desktop,9/30/19,4.0,8.0,3.3GHz,Up to 4.0GHz,384KB,2MB,4MB,No,12nm,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon Vega 11 Graphics
+Ryzen-5-PRO-3350G,AMD Ryzen PRO Processors,Desktop,7/21/2020,4.0,8.0,3.6GHz,Up to 4.0GHz,384KB,2MB,4MB,No,12nm,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon  Graphics
+Ryzen-5-PRO-3350GE,AMD Ryzen PRO Processors,Desktop,7/21/2020,4.0,4.0,3.3GHz,Up to 3.9GHz,384KB,2MB,4MB,No,12nm,,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+Ryzen-5-1400,AMD Ryzen Processors,Boxed Processor,4/11/2017,4.0,8.0,3.2GHz,Up to 3.4GHz,384KB,2MB,8MB,Yes,14nm,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-3-PRO-3200G,AMD Ryzen PRO Processors,Desktop,9/30/19,4.0,4.0,3.6GHz,Up to 4.0GHz,384KB,2MB,4MB,No,12nm,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon Vega 8 Graphics
+Ryzen-3-1300X,AMD Ryzen Processors,Boxed Processor,07/27/2017,4.0,4.0,3.5GHz,Up to 3.7GHz,384KB,2MB,8MB,Yes,14nm,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-3-PRO-3200GE,AMD Ryzen PRO Processors,Desktop,9/30/19,4.0,4.0,3.3GHz,Up to 3.8GHz,384KB,2MB,4MB,No,12nm,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon Vega 8 Graphics
+Athlon-Gold-PRO-3150G,AMD Athlon PRO Processors,Desktop,7/21/2020,4.0,4.0,3.5GHz,Up to 3.9GHz,384KB,2MB,4MB,No,12nm,AM4,PCIe® 3.0,65W,95°C,DDR4,Radeon  Graphics
+Athlon-Gold-PRO-3150GE,AMD Athlon PRO Processors,Desktop,7/21/2020,4.0,4.0,3.3GHz,Up to 3.8GHz,384KB,2MB,4MB,No,12nm,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+Athlon-Silver-PRO-3125GE,AMD Athlon PRO Processors,Desktop,7/21/2020,2.0,4.0,3.4GHz,Up to 3.4GHz,192KB,1MB,4MB,No,12nm,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon  Graphics
+Ryzen-3-1200,AMD Ryzen Processors,Boxed Processor,07/27/2017,4.0,4.0,3.1GHz,Up to 3.4GHz,384KB,2MB,8MB,Yes,14nm,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Athlon-PRO-300GE,AMD Athlon PRO Processors,Desktop,9/30/19,2.0,4.0,3.4GHz,,192KB,1MB,4MB,No,12nm,AM4,PCIe® 3.0,35W,95°C,DDR4,Radeon Vega 3 Graphics
+Ryzen-7-PRO-2700X,AMD Ryzen PRO Processors,Desktop,,8.0,16.0,3.6GHz,Up to 4.1GHz,768KB,4MB,16MB,No,12nm,AM4,PCIe 3.0,95W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-PRO-4750U,AMD Ryzen PRO Processors,Laptop,5/7/2020,8.0,16.0,1.7GHz,Up to 4.1GHz,,4MB,8MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-7-PRO-2700,AMD Ryzen PRO Processors,Desktop,,8.0,16.0,3.2GHz,Up to 4.1GHz,768KB,4MB,16MB,No,12nm,AM4,PCIe 3.0,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-PRO-4650U,AMD Ryzen PRO Processors,Laptop,5/7/2020,6.0,12.0,2.1GHz,Up to 4.0GHz,,3MB,8MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-3-PRO-4450U,AMD Ryzen PRO Processors,Laptop,5/7/2020,4.0,8.0,2.5GHz,Up to 3.7GHz,,2MB,4MB,No,TSMC 7nm FinFET,FP6,PCIe® 3.0,15W,105°C,"DDR4 - Up to 3200MHz, LPDDR4 - Up to 4266MHz",AMD Radeon Graphics
+Ryzen-7-PRO-1700X,AMD Ryzen PRO Processors,Desktop,06/29/2017,8.0,16.0,3.4GHz,Up to 3.8GHz,,4MB,16MB,No,14nm,AM4,PCIe 3.0 x16,95W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-PRO-3700U,AMD Ryzen PRO Processors,Laptop,4/8/2019,4.0,8.0,2.3GHz,Up to 4.0GHz,384KB,2MB,4MB,No,12nm,FP5,PCIe® 3.0,15W,95°C,,Radeon Vega 10 Graphics
+Ryzen-5-PRO-3500U,AMD Ryzen PRO Processors,Laptop,4/8/2019,4.0,8.0,2.1GHz,Up to 3.7GHz,384KB,2MB,4MB,No,12nm,FP5,PCIe® 3.0,15W,95°C,,Radeon Vega 8 Graphics
+Ryzen-7-PRO-1700,AMD Ryzen PRO Processors,Desktop,06/29/2017,8.0,16.0,3.0GHz,Up to 3.7GHz,768KB,4MB,16MB,No,14nm,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Athlon-PRO-3145B,AMD Athlon PRO Processors,Laptop,Q12021,2.0,4.0,2.4GHz,Up to 3.3GHz,196608KB,1MB,4MB,,14nm,FP5,PCIe® 3.0,15W,100°C,DDR4,AMD Radeon Graphics
+Ryzen-5-PRO-2600,AMD Ryzen PRO Processors,Desktop,,6.0,12.0,3.4GHz,Up to 3.9GHz,576KB,3MB,16MB,No,12nm,AM4,PCIe 3.0,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-3-PRO-3300U,AMD Ryzen PRO Processors,Laptop,4/8/2019,4.0,4.0,2.1GHz,Up to 3.5GHz,384KB,2MB,4MB,No,12nm,FP5,PCIe® 3.0,15W,95°C,,Radeon Vega 6 Graphics
+Athlon-PRO-3045B,AMD Athlon PRO Processors,Laptop,Q12021,2.0,2.0,2.3GHz,Up to 3.2GHz,192KB,1MB,4MB,,14nm,FP5,PCIe® 3.0,15W,100°C,DDR4,AMD Radeon Graphics
+Ryzen-5-PRO-1600,AMD Ryzen PRO Processors,Desktop,06/29/2017,6.0,12.0,3.2GHz,Up to 3.6GHz,576KB,3MB,16MB,No,14nm,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Athlon-PRO-300U-Mobile,AMD Athlon PRO Processors,Laptop,,2.0,4.0,2.4GHz,Up to 3.3GHz,384KB,1MB,4MB,No,14nm,FP5,PCIe® 3.0,15W,95°C,,Radeon Vega 3 Graphics
+Ryzen-5-PRO-1500,AMD Ryzen PRO Processors,Desktop,06/29/2017,4.0,8.0,3.5GHz,Up to 3.7GHz,384KB,2MB,16MB,No,14nm,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-7-PRO-2700U,AMD Ryzen PRO Processors,Laptop,Q1 2019,4.0,8.0,2.2GHz,Up to 3.8GHz,384KB,2MB,4MB,No,14nm,FP5,PCIe® 3.0,15W,95°C,DDR4,Radeon Vega 10 Graphics
+Ryzen-5-PRO-2400G,AMD Ryzen PRO Processors,Desktop,5/10/2018,4.0,8.0,3.6GHz,Up to 3.9GHz,384KB,2MB,4MB,No,14nm FinFET,AM4,PCIe® 3.0,65W,95°C,,Radeon Vega 11 Graphics
+Ryzen-5-PRO-2400GE,AMD Ryzen PRO Processors,Desktop,5/10/2018,4.0,8.0,3.2GHz,Up to 3.8GHz,384KB,2MB,4MB,No,14nm FinFET,AM4,PCIe® 3.0 x8,35W,95°C,DDR4,Radeon Vega 11 Graphics
+Ryzen-3-PRO-1300,AMD Ryzen PRO Processors,Desktop,06/29/2017,4.0,4.0,3.5GHz,Up to 3.7GHz,384KB,2MB,8MB,No,14nm,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+Ryzen-5-PRO-2500U,AMD Ryzen PRO Processors,Laptop,Q1 2019,4.0,8.0,2.0GHz,Up to 3.6GHz,384KB,2MB,4MB,No,14nm,FP5,PCIe® 3.0,15W,95°C,DDR4,Radeon Vega 8 Graphics
+Ryzen-3-PRO-2200G,AMD Ryzen PRO Processors,Desktop,5/10/2018,4.0,4.0,3.5GHz,Up to 3.7GHz,384KB,2MB,4MB,No,14nm FinFET,AM4,PCIe® 3.0,65W,95°C,,Radeon Vega 8 Graphics
+Ryzen-3-PRO-2200GE,AMD Ryzen PRO Processors,Desktop,5/10/2018,4.0,4.0,3.2GHz,Up to 3.6GHz,384KB,2MB,4MB,No,14nm FinFET,AM4,PCIe® 3.0 x8,35W,95°C,DDR4,Radeon Vega 8 Graphics
+Ryzen-3-PRO-2300U,AMD Ryzen PRO Processors,Laptop,Q1 2019,4.0,4.0,2.0GHz,Up to 3.4GHz,384KB,2MB,4MB,No,14nm,FP5,PCIe® 3.0,15W,95°C,DDR4,Radeon Vega 6 Graphics
+Ryzen-3-PRO-1200,AMD Ryzen PRO Processors,Desktop,06/29/2017,4.0,4.0,3.1GHz,Up to 3.4GHz,384KB,2MB,8MB,No,14nm,AM4,PCIe 3.0 x16,65W,95°C,DDR4,Discrete Graphics Card Required
+PRO-A4-5350B,AMD PRO A-Series Processors,Laptop,Q1 2020,2.0,,3.0GHz,Up to 3.6GHz,,1MB,,No,28nm,,PCIe® 3.0,15W,90°C,DDR4,AMD Radeon R5 Graphics
+PRO-A4-4350B,AMD PRO A-Series Processors,Laptop,Q1 2018,2.0,,2.5GHz,Up to 2.9GHz,,1MB,,No,28nm,,PCIe® 3.0,15W,90°C,DDR4,AMD Radeon R4 Graphics
+PRO-A6-8350B,AMD PRO A-Series Processors,Laptop,Q1 2020,2.0,,3.1GHz,Up to 3.7GHz,,1MB,,No,28nm,,PCIe® 3.0,15W,90°C,DDR4,AMD Radeon R5 Graphics
+PRO-A6-7350B,AMD PRO A-Series Processors,Laptop,Q1 2018,2.0,,3.0GHz,Up to 3.6GHz,,1MB,,No,28nm,,PCIe® 3.0,15W,90°C,DDR4,AMD Radeon R5 Graphics
+A12-9800,AMD A-Series Processors,Boxed Processor,"Channel: 7/27/2017, OEM: 9/5/2016",4.0,,3.8GHz,Up to 4.2GHz,,2MB,,Yes,28nm,AM4,PCIe® 3.0 x8,65W,90°C,DDR4,Radeon R7 Series
+A12-9800E,AMD A-Series Processors,Boxed Processor,9/5/2016,4.0,,3.1GHz,Up to 3.8GHz,,2MB,,Yes,28nm,AM4,PCIe® 3.0 x8,35W,90°C,DDR4,Radeon R7 Series
+A10-9700,AMD A-Series Processors,Boxed Processor,"Channel: 7/27/2017, OEM: 9/5/2016",4.0,,3.5GHz,Up to 3.8GHz,,2MB,,Yes,28nm,AM4,PCIe® 3.0 x8,65W,90°C,DDR4,Radeon R7 Series
+A10-9700E,AMD A-Series Processors,Boxed Processor,9/5/2016,4.0,,3.0GHz,Up to 3.5GHz,,2MB,,Yes,28nm,AM4,PCIe® 3.0 x8,35W,90°C,DDR4,Radeon R7 Series
+A8-9600,AMD A-Series Processors,Boxed Processor,"Channel: 7/27/2017, OEM: 9/5/2016",4.0,,3.1GHz,Up to 3.4GHz,,2MB,,Yes,28nm,AM4,PCIe® 3.0 x8,65W,90°C,DDR4,Radeon R7 Series
+A6-9550,AMD A-Series Processors,Boxed Processor,7/27/2017,2.0,,3.8GHz,Up to 4.0GHz,,1MB,,Yes,28nm,AM4,PCIe® 3.0 x8,65W,90°C,DDR4,Radeon R5 Series
+A6-9500,AMD A-Series Processors,Boxed Processor,"Channel: 7/27/2017, OEM: 9/5/2016",2.0,,3.5GHz,Up to 3.8GHz,,1MB,,Yes,28nm,AM4,PCIe® 3.0 x8,65W,90°C,DDR4,Radeon R5 Series
+A6-9500E,AMD A-Series Processors,Boxed Processor,"Channel: 7/27/2017, OEM: 9/5/2016",2.0,,3.0GHz,Up to 3.4GHz,,1MB,,Yes,28nm,AM4,PCIe® 3.0 x8,35W,90°C,DDR4,Radeon R5 Series
+A12-9730P,AMD A-Series Processors,Laptop,Q216,4.0,,2.8GHz,Up to 3.5GHz,,2MB,,No,28nm,FP4,,35W,90°C,DDR4,AMD Radeon R7 Graphics
+A12-9700P,AMD A-Series Processors,Laptop,Q216,4.0,,2.5GHz,Up to 3.4GHz,,2MB,,No,28nm,FP4,,15W,90°C,DDR4,AMD Radeon R7 Graphics
+A10-9630P,AMD A-Series Processors,Laptop,Q216,4.0,,2.6GHz,Up to 3.3GHz,,2MB,,No,28nm,FP4,,35W,90°C,DDR4,AMD Radeon R5 Graphics
+A10-9600P,AMD A-Series Processors,Laptop,Q216,4.0,,2.4GHz,Up to 3.3GHz,,2MB,,No,28nm,FP4,,15W,90°C,DDR4,AMD Radeon R5 Graphics
+A9-9425,AMD A-Series Processors,Laptop,2Q18,2.0,,3.1GHz,Up to 3.7GHz,,1MB,,No,28nm,,PCIe® 3.0,15W,90°C,DDR4,AMD Radeon R5 Graphics
+A9-9420,AMD A-Series Processors,Laptop,Q217,2.0,,3.0GHz,Up to 3.6GHz,,1MB,,No,28nm,,PCIe® 3.0,15W,90°C,DDR4,AMD Radeon R5 Graphics
+A9-9410,AMD A-Series Processors,Laptop,Q216,2.0,,2.9GHz,Up to 3.5GHz,,1MB,,No,28nm,,,10-25/25W,90°C,DDR4,AMD Radeon R5 Graphics
+A6-9225,AMD A-Series Processors,Laptop,2Q18,2.0,,2.6GHz,Up to 3.1GHz,,1MB,,No,28nm,,PCIe® 3.0,15W,90°C,DDR4,AMD Radeon R4 Graphics
+A6-9220,AMD A-Series Processors,Laptop,Q217,2.0,,2.5GHz,Up to 2.9GHz,,1MB,,No,28nm,,PCIe® 3.0,15W,90°C,DDR4,AMD Radeon R5 Graphics
+A6-9220C,AMD A-Series Processors,Laptop,,2.0,2.0,1.8GHz,Up to 2.7GHz,160KB,1MB,,No,28nm,FT4,,6W,90°C,,Radeon R5 Graphics
+A6-9210,AMD A-Series Processors,Laptop,Q216,2.0,,2.4GHz,Up to 2.8GHz,,1MB,,No,28nm,,,15W,90°C,DDR4,AMD Radeon R4 Graphics
+A4-9125,AMD A-Series Processors,Laptop,2Q18,2.0,,2.3GHz,Up to 2.6GHz,,1MB,,No,28nm,,PCIe® 3.0,15W,90°C,,AMD Radeon R3 Graphics
+A4-9120,AMD A-Series Processors,Laptop,Q217,2.0,,2.2GHz,Up to 2.5GHz,,1MB,,No,28nm,,PCIe® 3.0,15W,90°C,DDR4,AMD Radeon R3 Graphics
+A4-9120C,AMD A-Series Processors,Laptop,,2.0,2.0,1.6GHz,Up to 2.4GHz,160KB,1MB,,No,28nm,FT4,,6W,90°C,,Radeon R4 Graphics
+PRO-A12-9800,AMD PRO A-Series Processors,Desktop,10/03/2016,4.0,,3.8GHz,Up to 4.2GHz,,2MB,,No,28nm,AM4,PCIe® 3.0,65W,90°C,DDR4,R7
+PRO-A12-9800E,AMD PRO A-Series Processors,Desktop,10/03/2016,4.0,,3.1GHz,Up to 3.8GHz,,2MB,,No,28nm,AM4,PCIe® 3.0,35W,90°C,DDR4,R7
+PRO-A10-9700,AMD PRO A-Series Processors,Desktop,10/03/2016,4.0,,3.5GHz,Up to 3.8GHz,,2MB,,No,28nm,AM4,PCIe® 3.0,65W,90°C,DDR4,R7
+PRO-A10-9700E,AMD PRO A-Series Processors,Desktop,10/03/2016,4.0,,3.0GHz,Up to 3.5GHz,,2MB,,No,28nm,AM4,PCIe® 3.0,35W,90°C,DDR4,R7
+PRO-A8-9600,AMD PRO A-Series Processors,Desktop,10/03/2016,4.0,,3.1GHz,Up to 3.4GHz,,2MB,,No,28nm,AM4,PCIe® 3.0,65W,90°C,DDR4,R7
+PRO-A6-9500,AMD PRO A-Series Processors,Desktop,10/03/2016,2.0,,3.5GHz,Up to 3.8GHz,,1MB,,No,28nm,AM4,PCIe® 3.0,65W,90°C,DDR4,R5
+PRO-A6-9500E,AMD PRO A-Series Processors,Desktop,10/03/2016,2.0,,3.0GHz,Up to 3.4GHz,,1MB,,No,28nm,AM4,PCIe® 3.0,35W,90°C,DDR4,R5
+PRO-A12-9830B,AMD PRO A-Series Processors,Laptop,10/24/2016,4.0,,3.0GHz,Up to 3.7GHz,,2MB,,No,28nm,FP4,,35W,90°C,DDR4,R7
+PRO-A12-9800B,AMD PRO A-Series Processors,Laptop,10/24/2016,4.0,,2.7GHz,Up to 3.6GHz,,2MB,,No,28nm,FP4,,15W,90°C,DDR4,R7
+PRO-A10-9730B,AMD PRO A-Series Processors,Laptop,10/24/2016,4.0,,2.8GHz,Up to 3.5GHz,,2MB,,No,28nm,FP4,,35W,90°C,DDR4,R7
+PRO-A10-9700B,AMD PRO A-Series Processors,Laptop,10/24/2016,4.0,,2.5GHz,Up to 3.4GHz,,2MB,,No,28nm,FP4,,15W,90°C,DDR4,R7
+PRO-A8-9630B,AMD PRO A-Series Processors,Laptop,10/24/2016,4.0,,2.6GHz,Up to 3.3GHz,,2MB,,No,28nm,FP4,,35W,90°C,DDR4,R5
+PRO-A8-9600B,AMD PRO A-Series Processors,Laptop,10/24/2016,4.0,,2.4GHz,Up to 3.3GHz,,2MB,,No,28nm,FP4,,15W,90°C,DDR4,R5
+PRO-A6-9500B,AMD PRO A-Series Processors,Laptop,10/24/2016,2.0,,2.3GHz,Up to 3.2GHz,,1MB,,No,28nm,FP4,,15W,90°C,DDR4,R5
+FX-9830P,AMD FX-Series Processors,Laptop,Q216,4.0,,3.0GHz,Up to 3.7GHz,,2MB,,No,28nm,FP4,,35W,90°C,DDR4,AMD Radeon R7 Graphics
+FX-9800P,AMD FX-Series Processors,Laptop,Q216,4.0,,2.7GHz,Up to 3.6GHz,,2MB,,No,28nm,FP4,,15W,90°C,DDR4,AMD Radeon R7 Graphics
+E2-9010,AMD E-Series Processors,Laptop,Q217,2.0,,200MHz,Up to 2.2GHz,,1MB,,No,28nm,,PCIe® 3.0 x8,15W,90°C,DDR4,AMD Radeon R5 Graphics
+A10-8700P,AMD A-Series Processors,Laptop,,4.0,4.0,1.8GHz,Up to 3.2GHz,,2MB,,No,28nm,FP4,,15W,90°C,DDR3,AMD Radeon R6 Graphics
+A8-8600P,AMD A-Series Processors,Laptop,,4.0,4.0,1.6GHz,Up to 3.0GHz,,2MB,,No,28nm,FP4,,15W,90°C,DDR3,AMD Radeon R6 Graphics
+PRO-A12-8870,AMD PRO A-Series Processors,Desktop,3Q 2016,4.0,,3.7GHz,Up to 4.2GHz,,2MB,,No,28nm,AM4,PCIe® 3.0,65W,,DDR4,R7
+PRO-A12-8870E,AMD PRO A-Series Processors,Desktop,,4.0,,2.9GHz,Up to 3.8GHz,,2MB,,No,28nm,AM4,PCIe® 3.0,35W,,DDR4,R7
+PRO-A10-8850B,AMD PRO A-Series Processors,Desktop,,4.0,4.0,3.9GHz,Up to 4.1GHz,,4MB,,No,28nm,FM2+,,95W,72.40°C,DDR3,AMD Radeon R7 Graphics
+PRO-A10-8770,AMD PRO A-Series Processors,Desktop,3Q 2016,4.0,,3.5GHz,Up to 3.8GHz,,2MB,,No,28nm,AM4,PCIe® 3.0,65W,,DDR4,R7
+PRO-A10-8770E,AMD PRO A-Series Processors,Desktop,3Q 2016,4.0,,2.8GHz,Up to 3.5GHz,,2MB,,No,28nm,AM4,PCIe® 3.0,35W,,DDR4,R7
+PRO-A10-8750B,AMD PRO A-Series Processors,Desktop,,4.0,4.0,3.6GHz,Up to 4.0GHz,,4MB,,No,28nm,FM2+,,65W,71.30°C,DDR3,AMD Radeon R7 Graphics
+PRO-A8-8650B,AMD PRO A-Series Processors,Desktop,,4.0,4.0,3.2GHz,Up to 3.9GHz,,4MB,,No,28nm,FM2+,,65W,71.30°C,DDR3,AMD Radeon R7 Graphics
+PRO-A6-8570,AMD PRO A-Series Processors,Desktop,,2.0,,3.5GHz,Up to 3.8GHz,,1MB,,No,28nm,AM4,PCIe® 3.0,65W,,DDR4,R5
+PRO-A6-8570E,AMD PRO A-Series Processors,Desktop,,2.0,,3.0GHz,Up to 3.4GHz,,1MB,,No,28nm,AM4,PCIe® 3.0,35W,,DDR4,R5
+PRO-A6-8550B,AMD PRO A-Series Processors,Desktop,,2.0,2.0,3.7GHz,Up to 4.0GHz,,1MB,,No,28nm,FM2+,,65W,71.30°C,DDR3,AMD Radeon R5 Graphics
+PRO-A4-8350B,AMD PRO A-Series Processors,Desktop,,2.0,2.0,3.5GHz,Up to 3.9GHz,,1MB,,No,28nm,FM2+,,65W,71.30°C,DDR3,AMD Radeon R5 Graphics
+PRO-A12-8830B,AMD PRO A-Series Processors,Laptop,Q3 2016,4.0,,2.5GHz,Up to 3.4GHz,,2MB,,No,28nm,FP4,,,,DDR4,R7
+PRO-A12-8800B,AMD PRO A-Series Processors,Laptop,,4.0,4.0,2.1GHz,Up to 3.4GHz,,2MB,,No,28nm,FP4,,15W,,DDR3/DDR3L,AMD Radeon R7 Graphics
+PRO-A10-8730B,AMD PRO A-Series Processors,Laptop,Q3 2016,4.0,,2.4GHz,Up to 3.3GHz,,2MB,,No,28nm,FP4,,,,DDR4,R5
+PRO-A10-8700B,AMD PRO A-Series Processors,Laptop,,4.0,4.0,1.8GHz,Up to 3.2GHz,,2MB,,No,28nm,FP4,,15W,,DDR3/DDR3L,AMD Radeon R6 Graphics
+PRO-A8-8600B,AMD PRO A-Series Processors,Laptop,,4.0,4.0,1.6GHz,Up to 3.0GHz,,2MB,,No,28nm,FP4,,15W,,DDR3/DDR3L,AMD Radeon R6 Graphics
+PRO-A6-8530B,AMD PRO A-Series Processors,Laptop,Q3 2016,2.0,,2.3GHz,Up to 3.2GHz,,1MB,,No,28nm,FP4,,,,DDR4,R5
+PRO-A6-8500B,AMD PRO A-Series Processors,Laptop,,2.0,4.0,1.6GHz,Up to 3.0GHz,,1MB,,No,28nm,FP4,,15W,,DDR3/DDR3L,AMD Radeon R5 Graphics
+FX-8800P,AMD FX-Series Processors,Laptop,,4.0,4.0,2.1GHz,Up to 3.4GHz,,2MB,,No,28nm,FP4,,15W,90°C,DDR3,AMD Radeon R7 Graphics
+A10-7890K,AMD A-Series Processors,Boxed Processor,,4.0,,4.1GHz,Up to 4.3GHz,256KB,4MB,,Yes,28nm,FM2+,,95W,72.40°C,DDR3,AMD Radeon R7 Graphics
+A10-7870K,AMD A-Series Processors,Boxed Processor,,4.0,4.0,3.9GHz,Up to 4.1GHz,256KB,4MB,,Yes,28nm,FM2+,,95W,72.40°C,DDR3,AMD Radeon R7 Graphics
+A10-7870K,AMD A-Series Processors,Boxed Processor,,4.0,,3.9GHz,Up to 4.1GHz,256KB,4MB,,Yes,28nm,FM2+,,95W,72.40°C,DDR3,AMD Radeon R7 Graphics
+A10-7860K,AMD A-Series Processors,Boxed Processor,,4.0,4.0,3.6GHz,Up to 4.0GHz,256KB,4MB,,Yes,28nm,FM2+,,65W,71.30°C,DDR3,AMD Radeon R7 Graphics
+A10-7860K,AMD A-Series Processors,Boxed Processor,,4.0,4.0,3.6GHz,Up to 4.0GHz,256KB,4MB,,Yes,28nm,FM2+,,65W,71.30°C,DDR3,AMD Radeon R7 Graphics
+A10-7850K,AMD A-Series Processors,Boxed Processor,,4.0,4.0,3.7GHz,Up to 4.0GHz,256KB,4MB,,Yes,28nm,FM2+,,95W,72.40°C,DDR3,AMD Radeon R7 Graphics
+A10-7800,AMD A-Series Processors,Boxed Processor,,4.0,4.0,3.5GHz,Up to 3.9GHz,256KB,4MB,,No,28nm,FM2+,,,71.30°C,DDR3,AMD Radeon R7 Graphics
+A10-7700K,AMD A-Series Processors,Boxed Processor,,4.0,4.0,3.4GHz,Up to 3.8GHz,256KB,4MB,,Yes,28nm,FM2+,,,72.40°C,DDR3,AMD Radeon R7 Graphics
+A10-6800K,AMD A-Series Processors,Boxed Processor,,4.0,4.0,4.1GHz,Up to 4.4GHz,192KB,4MB,,Yes,32nm SOI,FM2,,100W,74°C,DDR3,AMD Radeon HD 8670D
+A10-6790K,AMD A-Series Processors,Boxed Processor,,4.0,4.0,4.0GHz,Up to 4.3GHz,192KB,4MB,,Yes,32nm SOI,FM2,,100W,74°C,DDR3,AMD Radeon HD 8670D
+A10-6700,AMD A-Series Processors,Boxed Processor,,4.0,4.0,3.7GHz,Up to 4.3GHz,192KB,4MB,,No,32nm SOI,FM2,,65W,71.30°C,DDR3,AMD Radeon HD 8670D
+EPYC-7773X,AMD EPYC,Server,,64.0,128.0,2.2GHz,Up to 3.5GHz,,,768MB,,,SP3,PCIe 4.0 x128,280W,,DDR4,nan
+A10-6700T,AMD A-Series Processors,Boxed Processor,,4.0,4.0,2.5GHz,Up to 3.5GHz,192KB,4MB,,No,32nm SOI,FM2,,45W,71.30°C,DDR3,AMD Radeon HD 8650D
+EPYC-7763,AMD EPYC,Server,3/15/2021,64.0,128.0,2.45GHz,Up to 3.5GHz,,,256MB,,,SP3,PCIe 4.0 x128,280W,,DDR4,nan
+EPYC-7713P,AMD EPYC,Server,3/15/2021,64.0,128.0,2.0GHz,Up to 3.675GHz,,,256MB,,,SP3,PCIe 4.0 x128,225W,,DDR4,nan
+EPYC-7713,AMD EPYC,Server,3/15/2021,64.0,128.0,2.0GHz,Up to 3.675GHz,,,256MB,,,SP3,PCIe 4.0 x128,225W,,DDR4,nan
+EPYC-7663,AMD EPYC,Server,3/15/2021,56.0,112.0,2.0GHz,Up to 3.5GHz,,,256MB,,,SP3,PCIe 4.0 x128,240W,,DDR4,nan
+EPYC-7643,AMD EPYC,Server,3/15/2021,48.0,96.0,2.3GHz,Up to 3.6GHz,,,256MB,,,SP3,PCIe 4.0 x128,225W,,DDR4,nan
+EPYC-7573X,AMD EPYC,Server,,32.0,64.0,2.8GHz,Up to 3.6GHz,,,768MB,,,SP3,PCIe 4.0 x128,280W,,DDR4,nan
+EPYC-75F3,AMD EPYC,Server,3/15/2021,32.0,64.0,2.95GHz,Up to 4.0GHz,,,256MB,,,SP3,PCIe 4.0 x128,280W,,DDR4,nan
+EPYC-7543P,AMD EPYC,Server,3/15/2021,32.0,64.0,2.8GHz,Up to 3.7GHz,,,256MB,,,SP3,PCIe 4.0 x128,225W,,DDR4,nan
+EPYC-7543,AMD EPYC,Server,3/15/2021,32.0,64.0,2.8GHz,Up to 3.7GHz,,,256MB,,,SP3,PCIe 4.0 x128,225W,,DDR4,nan
+EPYC-7513,AMD EPYC,Server,3/15/2021,32.0,64.0,2.6GHz,Up to 3.65GHz,,,128MB,,,SP3,PCIe 4.0 x128,200W,,DDR4,nan
+EPYC-7473X,AMD EPYC,Server,,24.0,48.0,2.8GHz,Up to 3.7GHz,,,768MB,,,SP3,PCIe 4.0 x128,240W,,DDR4,nan
+EPYC-7453,AMD EPYC,Server,3/15/2021,28.0,56.0,2.75GHz,Up to 3.45GHz,,,64MB,,,SP3,PCIe 4.0 x128,225W,,DDR4,nan
+EPYC-74F3,AMD EPYC,Server,3/15/2021,24.0,48.0,3.2GHz,Up to 4.0GHz,,,256MB,,,SP3,PCIe 4.0 x128,240W,,DDR4,nan
+EPYC-7443P,AMD EPYC,Server,3/15/2021,24.0,48.0,2.85GHz,Up to 4.0GHz,,,128MB,,,SP3,PCIe 4.0 x128,200W,,DDR4,nan
+EPYC-7443,AMD EPYC,Server,3/15/2021,24.0,48.0,2.85GHz,Up to 4.0GHz,,,128MB,,,SP3,PCIe 4.0 x128,200W,,DDR4,nan
+EPYC-7413,AMD EPYC,Server,3/15/2021,24.0,48.0,2.65GHz,Up to 3.6GHz,,,128MB,,,SP3,PCIe 4.0 x128,180W,,DDR4,nan
+EPYC-73F3,AMD EPYC,Server,3/15/2021,16.0,32.0,3.5GHz,Up to 4.0GHz,,,256MB,,,SP3,PCIe 4.0 x128,240W,,DDR4,nan
+EPYC-7373X,AMD EPYC,Server,,16.0,32.0,3.05GHz,Up to 3.8GHz,,,768MB,,,SP3,PCIe 4.0 x128,240W,,DDR4,nan
+EPYC-7343,AMD EPYC,Server,3/15/2021,16.0,32.0,3.2GHz,Up to 3.9GHz,,,128MB,,,SP3,PCIe 4.0 x128,190W,,DDR4,nan
+EPYC-7313P,AMD EPYC,Server,3/15/2021,16.0,32.0,3.0GHz,Up to 3.7GHz,,,128MB,,,SP3,PCIe 4.0 x128,155W,,DDR4,nan
+EPYC-7313,AMD EPYC,Server,3/15/2021,16.0,32.0,3.0GHz,Up to 3.7GHz,,,128MB,,,SP3,PCIe 4.0 x128,155W,,DDR4,nan
+A8-7670K,AMD A-Series Processors,Boxed Processor,,4.0,4.0,3.6GHz,Up to 3.9GHz,256KB,4MB,,Yes,28nm,FM2+,,95W,72.40°C,DDR3,AMD Radeon R7 Graphics
+EPYC-72F3,AMD EPYC,Server,3/15/2021,8.0,16.0,3.7GHz,Up to 4.1GHz,,,256MB,,,SP3,PCIe 4.0 x128,180W,,DDR4,nan
+EPYC-7F72,AMD EPYC,Server,,24.0,48.0,3.2GHz,Up to 3.7GHz,,,192MB,,,SP3,PCIe 4.0 x128,240W,,DDR4,nan
+EPYC-7F52,AMD EPYC,Server,,16.0,32.0,3.5GHz,Up to 3.9GHz,,,256MB,,,SP3,PCIe 4.0 x128,240W,,DDR4,nan
+A8-7650K,AMD A-Series Processors,Boxed Processor,,4.0,4.0,3.3GHz,Up to 3.8GHz,256KB,4MB,,Yes,28nm,FM2+,,95W,72.40°C,DDR3,AMD Radeon R7 Graphics
+EPYC-7F32,AMD EPYC,Server,,8.0,16.0,3.7GHz,Up to 3.9GHz,,,128MB,,,SP3,PCIe 4.0 x128,180W,,DDR4,nan
+EPYC-7H12,AMD EPYC,Server,,64.0,128.0,2.6GHz,Up to 3.3GHz,,,256MB,,,SP3,PCIe 4.0 x128,280W,,DDR4,nan
+A8-7650K,AMD A-Series Processors,Boxed Processor,,4.0,4.0,3.3GHz,Up to 3.8GHz,256KB,4MB,,Yes,28nm,FM2+,,95W,72.40°C,DDR3,AMD Radeon R7 Graphics
+EPYC-7742,AMD EPYC,Server,,64.0,128.0,2.25GHz,Up to 3.4GHz,,,256MB,,,SP3,PCIe 4.0 x128,225W,,DDR4,nan
+A8-7600,AMD A-Series Processors,Boxed Processor,,4.0,4.0,3.1GHz,Up to 3.8GHz,256KB,4MB,,No,28nm,FM2+,,65W,71.30°C,DDR3,AMD Radeon R7 Graphics
+EPYC-7702,AMD EPYC,Server,,64.0,128.0,2.0GHz,Up to 3.35GHz,,,256MB,,,SP3,PCIe 4.0 x128,200W,,DDR4,nan
+A8-6600K,AMD A-Series Processors,Boxed Processor,,4.0,4.0,3.9GHz,Up to 4.2GHz,192KB,4MB,,Yes,32nm SOI,FM2,,65W,74°C,DDR3,AMD Radeon HD 8570D
+EPYC-7702P,AMD EPYC,Server,,64.0,128.0,2.0GHz,Up to 3.35GHz,,,256MB,,,SP3,PCIe 4.0 x128,200W,,DDR4,nan
+EPYC-7662,AMD EPYC,Server,,64.0,128.0,2.0GHz,Up to 3.3GHz,,,256MB,,,SP3,PCIe 4.0 x128,225W,,DDR4,nan
+A8-6500,AMD A-Series Processors,Boxed Processor,,4.0,4.0,3.5GHz,Up to 4.1GHz,192KB,4MB,,No,32nm SOI,FM2,,65W,71.30°C,DDR3,AMD Radeon HD 8570D
+EPYC-7642,AMD EPYC,Server,,48.0,96.0,2.3GHz,Up to 3.3GHz,,,256MB,,,SP3,PCIe 4.0 x128,225W,,DDR4,nan
+EPYC-7552,AMD EPYC,Server,,48.0,96.0,2.2GHz,Up to 3.3GHz,,,192MB,,,SP3,PCIe 4.0 x128,200W,,DDR4,nan
+A8-6500T,AMD A-Series Processors,Boxed Processor,,4.0,4.0,2.1GHz,Up to 3.1GHz,192KB,4MB,,No,32nm SOI,FM2,,45W,71.30°C,DDR3,AMD Radeon HD 8550D
+EPYC-7542,AMD EPYC,Server,,32.0,64.0,2.9GHz,Up to 3.4GHz,,,128MB,,,SP3,PCIe 4.0 x128,225W,,DDR4,nan
+EPYC-7532,AMD EPYC,Server,,32.0,64.0,2.4GHz,Up to 3.3GHz,,,256MB,,,SP3,PCIe 4.0 x128,200W,,DDR4,nan
+EPYC-7502,AMD EPYC,Server,,32.0,64.0,2.5GHz,Up to 3.35GHz,,,128MB,,,SP3,PCIe 4.0 x128,180W,,DDR4,nan
+EPYC-7502P,AMD EPYC,Server,,32.0,64.0,2.5GHz,Up to 3.35GHz,,,128MB,,,SP3,PCIe 4.0 x128,180W,,DDR4,nan
+EPYC-7452,AMD EPYC,Server,,32.0,64.0,2.35GHz,Up to 3.35GHz,,,128MB,,,SP3,PCIe 4.0 x128,155W,,DDR4,nan
+EPYC-7402,AMD EPYC,Server,,24.0,48.0,2.8GHz,Up to 3.35GHz,,,128MB,,,SP3,PCIe 4.0 x128,180W,,DDR4,nan
+EPYC-7402P,AMD EPYC,Server,,24.0,48.0,2.8GHz,Up to 3.35GHz,,,128MB,,,SP3,PCIe 4.0 x128,180W,,DDR4,nan
+A6-7470K,AMD A-Series Processors,Boxed Processor,,2.0,,3.7GHz,Up to 4.0GHz,256KB,1MB,,Yes,28nm,FM2+,,65W,71.30°C,DDR3,AMD Radeon R5 Graphics
+EPYC-7352,AMD EPYC,Server,,24.0,48.0,2.3GHz,Up to 3.2GHz,,,128MB,,,SP3,PCIe 4.0 x128,155W,,DDR4,nan
+EPYC-7302,AMD EPYC,Server,,16.0,32.0,3.0GHz,Up to 3.3GHz,,,128MB,,,SP3,PCIe 4.0 x128,155W,,DDR4,nan
+A6-7400K,AMD A-Series Processors,Boxed Processor,,2.0,2.0,3.5GHz,Up to 3.9GHz,128KB,1MB,,Yes,28nm,FM2+,,65W,70°C,DDR3,AMD Radeon R5 Graphics
+A6-6420K,AMD A-Series Processors,Boxed Processor,,2.0,2.0,4.0GHz,Up to 4.2GHz,96KB,1MB,,Yes,32nm SOI,FM2,,65W,70°C,DDR3,AMD Radeon HD 8470D
+EPYC-7302P,AMD EPYC,Server,,16.0,32.0,3.0GHz,Up to 3.3GHz,,,128MB,,,SP3,PCIe 4.0 x128,155W,,DDR4,nan
+EPYC-7282,AMD EPYC,Server,,16.0,32.0,2.8GHz,Up to 3.2GHz,,,64MB,,,SP3,PCIe 4.0 x128,120W,,DDR4,nan
+A6-6310,AMD A-Series Processors,Desktop,,4.0,4.0,1.8GHz,Up to 2.4GHz,128KB,2MB,,No,28nm,FT3b,,15/25W,90°C,DDR3,AMD Radeon R4 Series
+EPYC-7272,AMD EPYC,Server,,12.0,24.0,2.9GHz,Up to 3.2GHz,,,64MB,,,SP3,PCIe 4.0 x128,120W,,DDR4,nan
+A6-6400K,AMD A-Series Processors,Boxed Processor,,2.0,2.0,3.9GHz,Up to 4.1GHz,96KB,1MB,,Yes,32nm SOI,FM2,,65W,70°C,DDR3,AMD Radeon HD 8470D
+EPYC-7262,AMD EPYC,Server,,8.0,16.0,3.2GHz,Up to 3.4GHz,,,128MB,,,SP3,x128,155W,,DDR4,nan
+A6-5200,AMD A-Series Processors,Desktop,,4.0,4.0,2.0GHz,,256KB,2MB,,No,28nm,FT3,,25W,90°C,DDR3,AMD Radeon HD 8400
+EPYC-7252,AMD EPYC,Server,,8.0,16.0,3.1GHz,Up to 3.2GHz,,,64MB,,,SP3,PCIe 4.0 x128,120W,,DDR4,nan
+EPYC-7232P,AMD EPYC,Server,,8.0,16.0,3.1GHz,Up to 3.2GHz,,,32MB,,,SP3,PCIe 4.0 x128,120W,,DDR4,nan
+EPYC-7601,AMD EPYC,Server,,32.0,64.0,2.2GHz,Up to 3.2GHz,,,64MB,,,SP3,PCIe 3.0 x128,180W,,DDR4,nan
+EPYC-7551P,AMD EPYC,Server,,32.0,64.0,2.0GHz,Up to 3.0GHz,,,64MB,,,SP3,PCIe 3.0 x128,180W,,DDR4,nan
+EPYC-7551,AMD EPYC,Server,,32.0,64.0,2.0GHz,Up to 3.0GHz,,,64MB,,,SP3,PCIe 3.0 x128,180W,,DDR4,nan
+EPYC-7501,AMD EPYC,Server,,32.0,64.0,2.0GHz,Up to 3.0GHz,,,64MB,,,SP3,PCIe 3.0 x128,155/170W,,DDR4,nan
+EPYC-7451,AMD EPYC,Server,,24.0,48.0,2.3GHz,Up to 3.2GHz,,,64MB,,,SP3,PCIe 3.0 x128,180W,,DDR4,nan
+A4-7300,AMD A-Series Processors,Desktop,,2.0,2.0,3.8GHz,Up to 4.0GHz,96KB,1MB,,No,32nm SOI,FM2,,65W,70°C,DDR3,AMD Radeon HD 8470D
+EPYC-7401P,AMD EPYC,Server,,24.0,48.0,2.0GHz,Up to 3.0GHz,,,64MB,,,SP3,PCIe 3.0 x128,155/170W,,DDR4,nan
+A4-6320,AMD A-Series Processors,Boxed Processor,,2.0,2.0,3.8GHz,Up to 4.0GHz,96KB,1MB,,No,32nm SOI,FM2,,65W,70°C,DDR3,AMD Radeon HD 8370D
+EPYC-7401,AMD EPYC,Server,,24.0,48.0,2.0GHz,Up to 3.0GHz,,,64MB,,,SP3,PCIe 3.0 x128,155/170W,,DDR4,nan
+A4-6300,AMD A-Series Processors,Boxed Processor,,2.0,2.0,3.7GHz,Up to 3.9GHz,96KB,1MB,,No,32nm SOI,FM2,,65W,70°C,DDR3,AMD Radeon HD 8370D
+EPYC-7371,AMD EPYC,Server,,16.0,32.0,3.1GHz,Up to 3.8GHz,,,64MB,,,SP3,PCIe 3.0 x128,200W,,DDR4,nan
+EPYC-7351P,AMD EPYC,Server,,16.0,32.0,2.4GHz,Up to 2.9GHz,,,64MB,,,SP3,PCIe 3.0 x128,155/170W,,DDR4,nan
+EPYC-7351,AMD EPYC,Server,,16.0,32.0,2.4GHz,Up to 2.9GHz,,,64MB,,,SP3,PCIe 3.0 x128,155/170W,,DDR4,nan
+A4-5100,AMD A-Series Processors,Desktop,,4.0,4.0,1.55GHz,,256KB,2MB,,No,28nm,FT3,,15W,90°C,DDR3,AMD Radeon HD 8330
+EPYC-7301,AMD EPYC,Server,,16.0,32.0,2.2GHz,Up to 2.7GHz,,,64MB,,,SP3,PCIe 3.0 x128,155/170W,,DDR4,nan
+EPYC-7281,AMD EPYC,Server,,16.0,32.0,2.1GHz,Up to 2.7GHz,,,32MB,,,SP3,PCIe 3.0 x128,155/170W,,DDR4,nan
+A4-5000,AMD A-Series Processors,Desktop,,4.0,4.0,1.5GHz,,256KB,2MB,,No,28nm,FT3,,15W,90°C,DDR3,AMD Radeon HD 8330
+EPYC-7261,AMD EPYC,Server,,8.0,16.0,2.5GHz,Up to 2.9GHz,,,64MB,,,SP3,,155/170W,,DDR4,nan
+EPYC-7251,AMD EPYC,Server,,8.0,16.0,2.1GHz,Up to 2.9GHz,,,32MB,,,SP3,PCIe 3.0 x128,120W,,DDR4,nan
+FX-9590,AMD FX-Series Processors,Boxed Processor,,8.0,8.0,4.7GHz,Up to 5.0GHz,384KB,8MB,8MB,Yes,32nm SOI,AM3+,,220W,57°C,DDR3,Discrete Graphics Card Required
+FX-9370,AMD FX-Series Processors,Boxed Processor,,8.0,8.0,4.4GHz,Up to 4.7GHz,384KB,8MB,8MB,Yes,32nm SOI,AM3+,,220W,57°C,DDR3,Discrete Graphics Card Required
+FX-8370,AMD FX-Series Processors,Boxed Processor,,8.0,8.0,4.0GHz,Up to 4.3GHz,384KB,8MB,8MB,Yes,32nm SOI,AM3+,,125W,61.10°C,DDR3,Discrete Graphics Card Required
+FX-8370E,AMD FX-Series Processors,Boxed Processor,,8.0,8.0,3.3GHz,Up to 4.3GHz,384KB,8MB,8MB,Yes,32nm SOI,AM3+,,95W,70.50°C,DDR3,Discrete Graphics Card Required
+A10-7400P,AMD A-Series Processors,Laptop,,4.0,4.0,2.5GHz,Up to 3.4GHz,,4MB,,No,28nm,FP3,,35W,,DDR3/DDR3L,AMD Radeon R6 Graphics
+FX-8370,AMD FX-Series Processors,Boxed Processor,,8.0,8.0,4.0GHz,Up to 4.3GHz,384KB,8MB,8MB,Yes,32nm SOI,AM3+,,125W,61.10°C,DDR3,Discrete Graphics Card Required
+A10-7300,AMD A-Series Processors,Laptop,,4.0,4.0,1.9GHz,Up to 3.2GHz,,4MB,,No,28nm,FP3,,20W,,Not Listed,AMD Radeon R6 Graphics
+FX-8350,AMD FX-Series Processors,Boxed Processor,,8.0,8.0,4.0GHz,Up to 4.2GHz,384KB,8MB,8MB,Yes,32nm SOI,AM3+,,125W,61°C,DDR3,Discrete Graphics Card Required
+FX-8350,AMD FX-Series Processors,Boxed Processor,,8.0,8.0,4.0GHz,Up to 4.2GHz,384KB,8MB,8MB,Yes,32nm SOI,AM3+,,125W,61°C,DDR3,Discrete Graphics Card Required
+A10-Micro-6700T,AMD A-Series Processors,"Laptop, Tablet",,4.0,4.0,2.2GHz,,,2MB,,No,28nm,FT3b,,4.5W,,DDR3L,AMD Radeon R6 Graphics
+FX-8320E,AMD FX-Series Processors,Boxed Processor,,8.0,8.0,3.2GHz,Up to 4.0GHz,384KB,8MB,8MB,Yes,32nm SOI,AM3+,,95W,70.50°C,DDR3,Discrete Graphics Card Required
+FX-8320,AMD FX-Series Processors,Boxed Processor,,8.0,8.0,3.5GHz,Up to 4.0GHz,384KB,8MB,8MB,Yes,32nm SOI,AM3+,,125W,61.10°C,DDR3,Discrete Graphics Card Required
+FX-8310,AMD FX-Series Processors,Boxed Processor,,8.0,8.0,3.4GHz,Up to 4.3GHz,,8MB,,Yes,32nm,AM3+,,95W,70.50°C,Not Listed,Discrete Graphics Card Required
+FX-8300,AMD FX-Series Processors,Boxed Processor,,8.0,8.0,3.3GHz,Up to 4.2GHz,384KB,8MB,8MB,Yes,32nm SOI,AM3+,,95W,70.50°C,DDR3,Discrete Graphics Card Required
+FX-8150,AMD FX-Series Processors,Boxed Processor,,8.0,8.0,3.6GHz,Up to 4.2GHz,384KB,8MB,8MB,Yes,32nm,AM3+,,125W,61°C,DDR3,Discrete Graphics Card Required
+A8-7410,AMD A-Series Processors,Laptop,,4.0,4.0,2.2GHz,Up to 2.5GHz,,2MB,,No,28nm,FP4,,15W,90°C,DDR3L,AMD Radeon R5 Graphics
+FX-8120,AMD FX-Series Processors,Boxed Processor,,8.0,8.0,3.1GHz,Up to 4.0GHz,384KB,8MB,8MB,Yes,32nm,AM3+,,125W,61°C,Not Listed,Discrete Graphics Card Required
+FX-6350,AMD FX-Series Processors,Boxed Processor,,6.0,6.0,3.9GHz,Up to 4.2GHz,288KB,6MB,8MB,Yes,32nm SOI,AM3+,,125W,61°C,DDR3,Discrete Graphics Card Required
+A8-7200P,AMD A-Series Processors,Laptop,,4.0,4.0,2.4GHz,Up to 3.3GHz,,4MB,,No,28nm,FP3,,100W,,DDR3,AMD Radeon R5 Graphics
+FX-6350,AMD FX-Series Processors,Boxed Processor,,6.0,6.0,3.9GHz,Up to 4.2GHz,288KB,6MB,8MB,Yes,32nm SOI,AM3+,,125W,61°C,DDR3,Discrete Graphics Card Required
+A8-7100,AMD A-Series Processors,Laptop,,4.0,4.0,1.8GHz,Up to 3.0GHz,,4MB,,No,28nm,FP3,,20W,,DDR3,AMD Radeon R5 Graphics
+FX-6300,AMD FX-Series Processors,Boxed Processor,,6.0,6.0,3.5GHz,Up to 3.8GHz,288KB,6MB,8MB,No,32nm SOI,AM3+,PCIe 3.0,95W,70.50°C,DDR3,Discrete Graphics Card Required
+A8-6410,AMD A-Series Processors,Laptop,,4.0,4.0,2.0GHz,Up to 2.4GHz,,2MB,,No,28nm,FT3b,,15W,90°C,DDR3L,AMD Radeon R5 Graphics
+FX-6200,AMD FX-Series Processors,Boxed Processor,,6.0,6.0,3.8GHz,Up to 4.1GHz,288KB,6MB,8MB,Yes,32nm SOI,AM3+,,125W,61.10°C,DDR3,Discrete Graphics Card Required
+FX-6100,AMD FX-Series Processors,Boxed Processor,,6.0,6.0,3.3GHz,Up to 3.9GHz,288KB,6MB,8MB,Yes,32nm SOI,AM3+,,95W,70°C,DDR3,Discrete Graphics Card Required
+FX-4350,AMD FX-Series Processors,Boxed Processor,,4.0,4.0,4.2GHz,Up to 4.3GHz,192KB,4MB,8MB,Yes,32nm SOI,AM3+,,125W,61.10°C,DDR3,Discrete Graphics Card Required
+FX-4320,AMD FX-Series Processors,Boxed Processor,,4.0,4.0,4.0GHz,Up to 4.1GHz,192KB,4MB,4MB,No,32nm SOI,AM3+,Not Listed,95W,70.50°C,DDR3,Discrete Graphics Card Required
+FX-4300,AMD FX-Series Processors,Boxed Processor,,4.0,4.0,3.8GHz,Up to 4.0GHz,192KB,4MB,4MB,Yes,32nm SOI,AM3+,,95W,70.50°C,DDR3,Discrete Graphics Card Required
+FX-4170,AMD FX-Series Processors,Boxed Processor,,4.0,4.0,4.2GHz,Up to 4.3GHz,192KB,4MB,8MB,No,32nm,AM3+,,125W,61.10°C,Not Listed,Discrete Graphics Card Required
+FX-4130,AMD FX-Series Processors,Boxed Processor,,4.0,4.0,3.8GHz,Up to 3.9GHz,192KB,4MB,4MB,Yes,32nm SOI,AM3,,125W,70°C,DDR3,Discrete Graphics Card Required
+FX-4100,AMD FX-Series Processors,Boxed Processor,,4.0,4.0,3.6GHz,Up to 3.8GHz,192KB,4MB,8MB,Yes,32nm SOI,AM3+,,95W,70.50°C,DDR3,Discrete Graphics Card Required
+1075T,AMD Phenom,Boxed Processor,,6.0,6.0,3.5GHz,,768KB,3MB,6MB,No,,AM3,,95W,,DDR3,Discrete Graphics Card Required
+1045T,AMD Phenom,Boxed Processor,,,,2.7GHz,Up to 3.2GHz,768KB,3MB,6MB,No,,AM3,,95W,71°C,Not Listed,Discrete Graphics Card Required
+980,AMD Phenom,Boxed Processor,,4.0,4.0,3.7GHz,,512KB,2MB,6MB,Yes,,AM3,,125W,,DDR3,Discrete Graphics Card Required
+A6-8500P,AMD A-Series Processors,Laptop,,2.0,2.0,1.6GHz,Up to 3.0GHz,,1MB,,No,28nm,FP4,,15W,90°C,Not Listed,AMD Radeon R5 Graphics
+A6-7310,AMD A-Series Processors,Laptop,,4.0,4.0,2.0GHz,Up to 2.4GHz,,2MB,,No,28nm,FP4,,15W,90°C,DDR3L,AMD Radeon R4 Graphics
+A6-7310,AMD A-Series Processors,Laptop,,4.0,4.0,2.0GHz,Up to 2.4GHz,,2MB,,No,28nm,FT3b,,15W,90°C,DDR3L,AMD Radeon R4 Graphics
+975,AMD Phenom,Boxed Processor,,4.0,4.0,3.6GHz,,512KB,2MB,6MB,Yes,45nm SOI,AM3,,125W,62°C,DDR3,Discrete Graphics Card Required
+965,AMD Phenom,Boxed Processor,,4.0,4.0,3.4GHz,,,2MB,,Yes,,AM3,,80W,,Not Listed,Discrete Graphics Card Required
+A6-7000,AMD A-Series Processors,Laptop,,2.0,2.0,2.2GHz,Up to 3.0GHz,,1MB,,No,28nm,FT3,,17W,,Not Listed,AMD Radeon R4 Graphics
+A6-6310,AMD A-Series Processors,Laptop,,4.0,4.0,2.4GHz,,,2MB,,No,28nm,FT3b,,15W,,DDR3L,AMD Radeon R4 Graphics
+960T,AMD Phenom,Boxed Processor,,4.0,4.0,3.0GHz,Up to 3.4GHz,512KB,512KB,,Yes,,AM3,,95W,71°C,Not Listed,Discrete Graphics Card Required
+850,AMD Phenom,Boxed Processor,,4.0,4.0,3.3GHz,,512KB,2MB,,No,,AM3,,95W,,Not Listed,Discrete Graphics Card Required
+840,AMD Phenom,Boxed Processor,,4.0,4.0,3.2GHz,,512KB,2MB,,No,,AM3,,95W,71°C,DDR3,Discrete Graphics Card Required
+A6-5350M,AMD A-Series Processors,Laptop,,2.0,2.0,2.9GHz,Up to 3.5GHz,,2MB,,No,32nm,FS1r2,,35W,,DDR3,AMD Radeon HD 8450G
+570,AMD Phenom,Boxed Processor,,2.0,2.0,4.0GHz,,,,6MB,Yes,,AM3,,80W,,DDR3,Discrete Graphics Card Required
+A6-5200M,AMD A-Series Processors,Laptop,,4.0,4.0,2.0GHz,,,2MB,,No,28nm,FT3,,25W,,Not Listed,AMD Radeon HD 8400
+565,AMD Phenom,Boxed Processor,,2.0,2.0,3.4GHz,,0KB,1MB,,Yes,45nm SOI,AM3,,80W,,Not Listed,Discrete Graphics Card Required
+555,AMD Phenom,Boxed Processor,,2.0,2.0,3.2GHz,,,1MB,,Yes,,AM3,,80W,,Not Listed,Discrete Graphics Card Required
+565,AMD Phenom,Boxed Processor,,2.0,2.0,3.4GHz,,256KB,1MB,6MB,Yes,,AM3,,80W,70°C,DDR3,Discrete Graphics Card Required
+X940,AMD Phenom,Laptop,,4.0,4.0,2.4GHz,,512KB,2MB,,Yes,,S1,,45W,100°C,DDR3,Discrete Graphics Card Required
+N970,AMD Phenom,Laptop,,4.0,4.0,2.2GHz,,512KB,2MB,,No,,S1,,35W,100°C,DDR3,Discrete Graphics Card Required
+N960,AMD Phenom,Laptop,,4.0,4.0,1.8GHz,,512KB,2MB,,No,,S1,,35W,100°C,DDR3,Discrete Graphics Card Required
+N870,AMD Phenom,Laptop,,3.0,3.0,2.3GHz,,384KB,1.5MB,,No,,AM2+,,35W,100°C,DDR3,Discrete Graphics Card Required
+P860,AMD Phenom,Laptop,,3.0,3.0,2.0GHz,,384KB,1.5MB,,No,,AM2+,,35W,100°C,DDR3,Discrete Graphics Card Required
+N660,AMD Phenom,Laptop,,2.0,2.0,3.0GHz,,256KB,2MB,,No,,S1,,35W,100°C,DDR3,Discrete Graphics Card Required
+A4-7210,AMD A-Series Processors,Laptop,,4.0,4.0,1.8GHz,Up to 2.2GHz,,2MB,,No,28nm,FT3b,,65W,90°C,DDR3L,AMD Radeon R3 Graphics
+P650,AMD Phenom,Laptop,,2.0,2.0,2.6GHz,,256KB,2MB,,No,,S1,,35W,100°C,DDR3,Discrete Graphics Card Required
+A4-Micro-6400T,AMD A-Series Processors,"Laptop, Tablet",,4.0,4.0,1.6GHz,,,2MB,,No,28nm,FT3b,,4.5W,,DDR3L,AMD Radeon R3 Graphics
+A4-6210,AMD A-Series Processors,Laptop,,4.0,4.0,1.8GHz,,,2MB,,No,28nm,FT3b,,15W,,DDR3L,AMD Radeon R3 Graphics
+N640,AMD Phenom,Laptop,,2.0,2.0,2.8GHz,,256KB,2MB,,No,,S1,,35W,100°C,Not Listed,Discrete Graphics Card Required
+B99,AMD Phenom,Desktop,,4.0,4.0,3.3GHz,,,2MB,,No,,AM3,,95W,,Not Listed,Discrete Graphics Card Required
+B97,AMD Phenom,Desktop,,4.0,4.0,3.2GHz,,,2MB,,No,,AM3,,95W,,Not Listed,Discrete Graphics Card Required
+B95,AMD Phenom,Desktop,,,,3.0GHz,,,2MB,,No,,AM3,,95W,,Not Listed,Discrete Graphics Card Required
+A4-5100,AMD A-Series Processors,"Laptop, Tablet",,4.0,4.0,1.55GHz,,,2MB,,No,28nm,FT3,,15W,,Not Listed,AMD Radeon HD 8330
+B77,AMD Phenom,Desktop,,3.0,3.0,3.2GHz,,,1.5MB,,No,,AM3,,95W,,Not Listed,Discrete Graphics Card Required
+A4-5000,AMD A-Series Processors,"Laptop, Tablet",,4.0,4.0,1.5GHz,,,2MB,,No,28nm,FT3,,15W,,Not Listed,AMD Radeon HD 8330
+B75,AMD Phenom,Desktop,,3.0,3.0,3.0GHz,,,1.5MB,,No,,AM3,,95W,,Not Listed,Discrete Graphics Card Required
+B60,AMD Phenom,Desktop,,2.0,2.0,3.5GHz,,,1MB,,No,,AM3,,80W,,Not Listed,Discrete Graphics Card Required
+B59,AMD Phenom,Desktop,,2.0,2.0,3.4GHz,,,1MB,,No,,AM3,,80W,,Not Listed,Discrete Graphics Card Required
+B57,AMD Phenom,Desktop,,2.0,2.0,3.2GHz,,,1MB,,No,,AM3,,80W,,Not Listed,Discrete Graphics Card Required
+641,AMD Athlon Processors,Boxed Processor,,4.0,4.0,2.8GHz,,512KB,4MB,,No,32nm,FM1 uPGA,Not Listed,100W,70.10°C,Not Listed,Discrete Graphics Card Required
+638,AMD Athlon Processors,Boxed Processor,,4.0,4.0,2.7GHz,,512KB,4MB,,No,32nm,FM1 uPGA,Not Listed,65W,70.10°C,Not Listed,Discrete Graphics Card Required
+631,AMD Athlon Processors,Boxed Processor,,4.0,4.0,2.6GHz,,,4MB,,No,32nm,FM1 uPGA,Not Listed,100W,70.10°C,Not Listed,Discrete Graphics Card Required
+631,AMD Athlon Processors,Boxed Processor,,4.0,4.0,2.6GHz,,,4MB,,No,32nm,FM1 uPGA,Not Listed,65W,,Not Listed,Discrete Graphics Card Required
+620e,AMD Athlon Processors,Boxed Processor,,4.0,4.0,2.7GHz,,,,,No,,AM3,Not Listed,45W,,DDR3,Discrete Graphics Card Required
+460,AMD Athlon Processors,Boxed Processor,,3.0,3.0,3.4GHz,,384KB,1.5MB,,No,,AM3,Not Listed,95W,75°C,DDR3,Discrete Graphics Card Required
+425e,AMD Athlon Processors,Boxed Processor,,3.0,3.0,2.7GHz,,384KB,1.5MB,,No,,AM3,Not Listed,45W,,DDR3,Discrete Graphics Card Required
+255e,AMD Athlon Processors,Boxed Processor,,2.0,2.0,3.1GHz,,256KB,2MB,,No,,AM3,Not Listed,45W,72°C,DDR3,Discrete Graphics Card Required
+A10-8700P,AMD A-Series Processors,All-in-One,,4.0,4.0,1.8GHz,Up to 3.2GHz,,2MB,,No,28nm,FP4,,,90°C,DDR3,AMD Radeon R6 Graphics
+Athlon-X4-970,AMD Athlon Processors,Boxed Processor,7/27/2017,4.0,4.0,3.8GHz,Up to 4.0GHz,,2MB,,Yes,28nm,AM4,PCIe 3.0,65W,,DDR4,Discrete Graphics Card Required
+A8-8600P,AMD A-Series Processors,All-in-One,,4.0,4.0,1.6GHz,Up to 3.0GHz,,2MB,,No,28nm,FP4,,,90°C,DDR3,AMD Radeon R6 Graphics
+A8-6410,AMD A-Series Processors,All-in-One,,4.0,4.0,2.2GHz,Up to 2.5GHz,,2MB,,No,28nm,FT3b,,,90°C,DDR3L,AMD Radeon R5 Graphics
+Athlon-X4-950,AMD Athlon Processors,Boxed Processor,7/27/2017,4.0,4.0,3.5GHz,Up to 3.8GHz,,2MB,,Yes,28nm,AM4,PCIe 3.0,,,DDR4,Discrete Graphics Card Required
+Athlon-X4-940,AMD Athlon Processors,Boxed Processor,7/27/2017,4.0,4.0,3.2GHz,Up to 3.6GHz,,2MB,,Yes,28nm,AM4,PCIe 3.0,,,DDR4,Discrete Graphics Card Required
+A6-8500P,AMD A-Series Processors,All-in-One,,2.0,2.0,1.6GHz,Up to 3.0GHz,,1MB,,No,28nm,FP4,,,90°C,Not Listed,AMD Radeon R5 Graphics
+A6-7310,AMD A-Series Processors,All-in-One,,4.0,4.0,2.0GHz,Up to 2.4GHz,,2MB,,No,28nm,FP4,,,90°C,DDR3L,AMD Radeon R4 Graphics
+880K,AMD Athlon Processors,Boxed Processor,,4.0,,4.0GHz,Up to 4.2GHz,256KB,4MB,,Yes,28nm,FM2+,,95W,72.40°C,DDR3,Discrete Graphics Card Required
+A4-7210,AMD A-Series Processors,All-in-One,,4.0,4.0,1.8GHz,Up to 2.2GHz,,2MB,,No,28nm,FP4,,65W,90°C,DDR3L,AMD Radeon R3 Graphics
+870K,AMD Athlon Processors,Boxed Processor,,4.0,4.0,3.9GHz,Up to 4.1GHz,128KB,4MB,,Yes,28nm,FM2+,PCIe 3.0,95W,72.40°C,DDR3,Discrete Graphics Card Required
+A10-6800B,AMD A-Series Processors,Desktop,,4.0,4.0,4.1GHz,Up to 4.4GHz,192KB,4MB,,No,32nm SOI,FM2,,45W,74°C,DDR3,AMD Radeon HD 8670D
+860K,AMD Athlon Processors,Desktop,,4.0,4.0,3.7GHz,Up to 4.0GHz,128KB,4MB,,Yes,28nm,FM2+,PCIe 3.0,95W,72.40°C,DDR3,Discrete Graphics Card Required
+A10-6790B,AMD A-Series Processors,Desktop,,4.0,4.0,4.0GHz,Up to 4.3GHz,192KB,4MB,,No,32nm SOI,FM2,,45W,74°C,DDR3,AMD Radeon HD 8670D
+860K,AMD Athlon Processors,Boxed Processor,,4.0,4.0,3.7GHz,Up to 4.0GHz,128KB,4MB,,Yes,28nm,FM2+,PCIe 3.0,95W,72.40°C,DDR3,Discrete Graphics Card Required
+845,AMD Athlon Processors,Boxed Processor,,4.0,4.0,3.5GHz,Up to 3.8GHz,,2MB,,No,28nm,FM2+,PCIe 3.0,,71.30°C,DDR3,Discrete Graphics Card Required
+760K,AMD Athlon Processors,Boxed Processor,,4.0,4.0,3.8GHz,Up to 4.1GHz,,4MB,,Yes,32nm,FM2,Not Listed,100W,,Not Listed,Discrete Graphics Card Required
+A8-6500B,AMD A-Series Processors,Desktop,,4.0,4.0,3.5GHz,Up to 4.1GHz,192KB,4MB,,No,32nm SOI,FM2,,65W,71.30°C,DDR3,AMD Radeon HD 8570D
+750,AMD Athlon Processors,Boxed Processor,,4.0,,3.4GHz,Up to 4.0GHz,192KB,4MB,,No,,FM2,,65W,71.30°C,DDR3,Discrete Graphics Card Required
+A6-6420B,AMD A-Series Processors,Desktop,,2.0,2.0,4.0GHz,Up to 4.2GHz,96KB,1MB,,No,32nm SOI,FM2,,65W,70°C,DDR3,AMD Radeon HD 8470D
+750K,AMD Athlon Processors,Boxed Processor,,4.0,4.0,3.4GHz,Up to 4.0GHz,,4MB,,No,32nm,FM2,Not Listed,100W,,Not Listed,Discrete Graphics Card Required
+740,AMD Athlon Processors,Boxed Processor,,4.0,4.0,3.2GHz,Up to 3.7GHz,,4MB,,No,32nm,FM2,Not Listed,65W,,Not Listed,Discrete Graphics Card Required
+A6-6400B,AMD A-Series Processors,Desktop,,2.0,2.0,3.9GHz,Up to 4.1GHz,96KB,1MB,,No,32nm SOI,FM2,,65W,70°C,DDR3,AMD Radeon HD 8470D
+2800+,AMD Sempron,Desktop,,,,56MHz,,,,,No,65nm,939,,45W,70°C,Not Listed,Discrete Graphics Card Required
+X1150,AMD Opteron,Server,,4.0,4.0,2.0GHz,,,2MB,,No,28nm,FT3,,17W,70°C,DDR3,nan
+6386-SE,AMD Opteron,Server,,16.0,16.0,2.8GHz,Up to 3.5GHz,48KB,16MB,16MB,No,32nm,G34,,140W,64.40°C,DDR3,nan
+6380,AMD Opteron,Server,,16.0,16.0,2.5GHz,Up to 3.4GHz,768KB,16MB,16MB,No,32nm,G34,,115W,69°C,DDR3,nan
+A10-PRO-7850B,AMD PRO A-Series Processors,Desktop,,4.0,4.0,3.7GHz,Up to 4.0GHz,256KB,4MB,,No,28nm,FM2+,,95W,72.40°C,DDR3,AMD Radeon R7 Graphics
+6378,AMD Opteron,Server,,16.0,16.0,2.4GHz,Up to 3.3GHz,768KB,16MB,16MB,No,32nm,G34,,115W,69°C,DDR3,nan
+6376,AMD Opteron,Server,,16.0,16.0,2.3GHz,Up to 2.0GHz,768KB,16MB,16MB,No,32nm,G34,,115W,69°C,DDR3,nan
+A10-PRO-7800B,AMD PRO A-Series Processors,Desktop,,4.0,4.0,3.5GHz,Up to 3.9GHz,256KB,4MB,,No,28nm,FM2+,,65W,71.30°C,DDR3,AMD Radeon R7 Graphics
+A8-PRO-7600B,AMD PRO A-Series Processors,Desktop,,4.0,4.0,3.1GHz,Up to 3.8GHz,,4MB,,No,28nm,FM2+,,65W,71.30°C,DDR3,AMD Radeon R7 Graphics
+6370P,AMD Opteron,Server,,16.0,16.0,2.0GHz,Up to 2.5GHz,48KB,16MB,16MB,No,32nm,G34,,99W,69°C,DDR3,nan
+6366-HE,AMD Opteron,Server,,16.0,16.0,1.8GHz,Up to 3.1GHz,768KB,16MB,16MB,No,32nm,G34,,85W,65°C,DDR3,nan
+A6-PRO-7400B,AMD PRO A-Series Processors,Desktop,,2.0,2.0,3.5GHz,Up to 3.9GHz,,1MB,,No,28nm,FM2+,,65W,70°C,DDR3,AMD Radeon R5 Graphics
+A4-PRO-7350B,AMD PRO A-Series Processors,Desktop,,2.0,2.0,3.4GHz,Up to 3.8GHz,,1MB,,No,28nm,FM2+,,65W,70°C,DDR3,AMD Radeon R5 Graphics
+6348,AMD Opteron,Server,,12.0,12.0,2.8GHz,Up to 3.4GHz,576KB,12MB,16MB,No,32nm,G34,,115W,70.40°C,DDR3,nan
+A4-PRO-7300B,AMD PRO A-Series Processors,Desktop,,2.0,2.0,3.8GHz,Up to 4.0GHz,96KB,1MB,,No,32nm SOI,FM2,,65W,70°C,DDR3,AMD Radeon HD 8470D
+6344,AMD Opteron,Server,,12.0,12.0,2.6GHz,Up to 2.0GHz,576KB,12MB,16MB,No,32nm,G34,,115W,70.40°C,DDR3,nan
+A10-PRO-7350B,AMD PRO A-Series Processors,Laptop,,4.0,4.0,2.1GHz,Up to 3.3GHz,,4MB,,No,28nm,FP3,,19W,,DDR3/DDR3L,AMD Radeon R6 Graphics
+6338P,AMD Opteron,Server,,12.0,12.0,2.3GHz,Up to 2.8GHz,48KB,12MB,16MB,No,32nm,G34,,99W,69°C,DDR3,nan
+6328,AMD Opteron,Server,,8.0,8.0,3.2GHz,Up to 3.8GHz,384KB,8MB,16MB,No,32nm,G34,,115W,71.70°C,DDR3,nan
+A8-PRO-7150B,AMD PRO A-Series Processors,Laptop,,4.0,4.0,1.9GHz,Up to 3.2GHz,,4MB,,No,28nm,FP3,,100W,,DDR3/DDR3L,AMD Radeon R5 Graphics
+6320,AMD Opteron,Server,,8.0,8.0,2.8GHz,Up to 3.3GHz,384KB,8MB,16MB,No,32nm,G34,,115W,71.70°C,DDR3,nan
+A6-PRO-7050B,AMD PRO A-Series Processors,Laptop,,2.0,2.0,2.2GHz,Up to 3.0GHz,,1MB,,No,28nm,FP3,,100W,,DDR3/DDR3L,AMD Radeon R4 Graphics
+A4-PRO-3350B,AMD PRO A-Series Processors,Laptop,Q2 2016,4.0,4.0,2.0GHz,Up to 2.4GHz,,2MB,,No,28nm,FT3b,,15W,90°C,DDR3,AMD Radeon R4 Graphics
+6308,AMD Opteron,Server,,4.0,4.0,3.5GHz,,192KB,4MB,16MB,No,32nm,G34,,115W,74.40°C,DDR3,nan
+6284-SE,AMD Opteron,Server,,16.0,16.0,2.7GHz,Up to 3.4GHz,768KB,16MB,16MB,No,32nm,G34,,140W,64.40°C,DDR3,nan
+A4-PRO-3340B,AMD PRO A-Series Processors,Laptop,,4.0,4.0,2.2GHz,,,2MB,,No,28nm,FT3,,25W,,DDR3/DDR3L,AMD Radeon HD 8240 Graphics
+6282-SE,AMD Opteron,Server,,16.0,16.0,2.6GHz,Up to 3.3GHz,768KB,16MB,16MB,No,32nm,G34,,140W,64.40°C,DDR3,nan
+FX-7600P,AMD FX-Series Processors,Laptop,,4.0,4.0,2.7GHz,Up to 3.6GHz,,4MB,,No,28nm,FP3,,35W,,DDR3,AMD Radeon R7 Graphics
+Athlon-3000G,AMD Athlon Processors,Boxed Processor,,2.0,4.0,3.5GHz,,192KB,1MB,4MB,Yes,14nm,AM4,PCIe® 3.0,35W,95°C,,Radeon Vega 3 Graphics
+6278,AMD Opteron,Server,,16.0,16.0,2.4GHz,Up to 3.3GHz,768KB,16MB,16MB,No,32nm,G34,,115W,69°C,DDR3,nan
+FX-7500,AMD FX-Series Processors,Laptop,,4.0,4.0,2.1GHz,Up to 3.3GHz,,4MB,,No,28nm,FP3,,20W,,DDR3,AMD Radeon R7 Graphics
+Athlon-240GE,AMD Athlon Processors,Desktop,,2.0,4.0,3.5GHz,,192KB,1MB,4MB,No,14nm,AM4,PCIe® 3.0,35W,95°C,,Radeon Vega 3 Graphics
+6276,AMD Opteron,Server,,16.0,16.0,2.3GHz,Up to 3.2GHz,768KB,16MB,16MB,No,32nm,G34,,115W,69°C,DDR3,nan
+Athlon-220GE,AMD Athlon Processors,Boxed Processor,,2.0,4.0,3.4GHz,,192KB,1MB,4MB,No,14nm,AM4,PCIe® 3.0,35W,95°C,,Radeon Vega 3 Graphics
+FX-8800P,AMD FX-Series Processors,All-in-One,,4.0,4.0,2.1GHz,Up to 3.4GHz,,2MB,,No,28nm,FP4,,,90°C,DDR3,AMD Radeon R7 Graphics
+Athlon-200GE,AMD Athlon Processors,Boxed Processor,,2.0,4.0,3.2GHz,,192KB,1MB,4MB,No,14nm,AM4,PCIe® 3.0,35W,95°C,,Radeon Vega 3 Graphics
+6274,AMD Opteron,Server,,16.0,16.0,2.2GHz,Up to 3.1GHz,768KB,16MB,16MB,No,32nm,G34,,115W,69°C,DDR3,nan
+Athlon-5370,AMD Athlon Processors,Desktop,,4.0,4.0,2.2GHz,,256KB,2MB,,No,28nm,AM1,,25W,76°C,DDR3,AMD Radeon R3 Graphics
+6272,AMD Opteron,Server,,16.0,16.0,2.1GHz,Up to 3.0GHz,768KB,16MB,16MB,No,32nm,G34,,115W,69°C,DDR3,nan
+Athlon-5350,AMD Athlon Processors,Boxed Processor,,4.0,4.0,2.05GHz,,256KB,2MB,,No,28nm,AM1,,25W,76°C,DDR3,AMD Radeon R3 Graphics
+Athlon-5150,AMD Athlon Processors,Boxed Processor,,4.0,4.0,1.6GHz,,256KB,2MB,,No,28nm,AM1,,25W,76°C,DDR3,AMD Radeon R3 Graphics
+Athlon-PRO-200U-Mobile,AMD Athlon PRO Processors,Laptop,,2.0,4.0,2.3GHz,Up to 3.2GHz,192KB,1MB,4MB,No,14nm,FP5,PCIe® 3.0,15W,105°C,,Radeon Vega 3 Graphics
+6262-HE,AMD Opteron,Server,,16.0,16.0,1.6GHz,Up to 2.9GHz,768KB,16MB,16MB,No,32nm,G34,,85W,65°C,DDR3,nan
+Athlon-PRO-200GE,AMD Athlon PRO Processors,Desktop,,2.0,4.0,3.2GHz,,192KB,1MB,4MB,No,14nm,AM4,PCIe® 3.0,35W,95°C,,Radeon Vega 3 Graphics
+Sempron-3850,AMD Sempron,Boxed Processor,,4.0,4.0,1.3GHz,,256KB,2MB,,No,28nm,AM1,,25W,90°C,DDR3,AMD Radeon R3 Graphics
+6238,AMD Opteron,Server,,12.0,12.0,2.6GHz,Up to 3.2GHz,576KB,12MB,16MB,No,32nm,G34,,115W,70.40°C,DDR3,nan
+6234,AMD Opteron,Server,,12.0,12.0,2.4GHz,Up to 3.0GHz,576KB,12MB,16MB,No,32nm,G34,,115W,70.40°C,DDR3,nan
+Sempron-2650,AMD Sempron,Boxed Processor,,2.0,2.0,1.45GHz,,128KB,1MB,,No,28nm,AM1,,25W,90°C,DDR3,AMD Radeon R3 Graphics
+E2-7110,AMD E-Series Processors,Laptop,,4.0,4.0,1.8GHz,Up to 1.8GHz,,2MB,,No,28nm,FT3b,,65W,90°C,DDR3L,AMD Radeon R2 Graphics
+E2-7110,AMD E-Series Processors,Laptop,,4.0,4.0,1.8GHz,Up to 1.8GHz,,2MB,,No,28nm,FP4,,65W,90°C,DDR3L,AMD Radeon R2 Graphics
+6220,AMD Opteron,Server,,8.0,8.0,3.0GHz,Up to 3.6GHz,384KB,8MB,16MB,No,32nm,G34,,115W,71.70°C,DDR3,nan
+E2-6110,AMD E-Series Processors,Laptop,,4.0,4.0,1.5GHz,,,2MB,,No,28nm,FT3b,,15W,,DDR3,AMD Radeon R2 Graphics
+6212,AMD Opteron,Server,,8.0,8.0,2.6GHz,Up to 3.2GHz,384KB,8MB,16MB,No,32nm,G34,,115W,71.70°C,DDR3,nan
+6204,AMD Opteron,Server,,4.0,4.0,3.3GHz,,512KB,4MB,16MB,No,32nm,G34,,115W,74.40°C,DDR3,nan
+E2-3800,AMD E-Series Processors,Laptop,,4.0,4.0,1.3GHz,,128KB,2MB,,No,28nm,FT3,,15W,90°C,DDR3,AMD Radeon HD 8280
+E2-3000,AMD E-Series Processors,Laptop,,2.0,2.0,1.65GHz,,,1MB,,No,28nm,FT3,,15W,,Not Listed,AMD Radeon HD 8280
+6180-SE,AMD Opteron,Server,,12.0,12.0,2.5GHz,,1536KB,6MB,12MB,No,,G34,,140W,64°C,DDR3,nan
+6176,AMD Opteron,Server,,12.0,12.0,2.3GHz,,1536KB,6MB,12MB,No,,G34,,115W,69°C,DDR3,nan
+6166-HE,AMD Opteron,Server,,12.0,12.0,1.8GHz,,1536KB,6MB,12MB,No,,G34,,85W,69°C,DDR3,nan
+6140,AMD Opteron,Server,,8.0,8.0,2.6GHz,,1024KB,4MB,12MB,No,,G34,,115W,69°C,DDR3,nan
+6132-HE,AMD Opteron,Server,,8.0,8.0,2.2GHz,,1024KB,4MB,12MB,No,,G34,,85W,66°C,DDR3,nan
+E2-7110,AMD E-Series Processors,All-in-One,,4.0,4.0,1.8GHz,Up to 1.8GHz,,2MB,,No,28nm,FP4,,65W,90°C,DDR3L,AMD Radeon R2 Graphics
+4386,AMD Opteron,Server,,8.0,8.0,3.1GHz,Up to 3.8GHz,384KB,8MB,8MB,No,32nm,C32,,95W,70.50°C,DDR3,nan
+4376-HE,AMD Opteron,Server,,8.0,8.0,2.6GHz,Up to 3.6GHz,384KB,8MB,8MB,No,32nm,C32,,65W,68°C,DDR3,nan
+4365,AMD Opteron,Server,,8.0,8.0,2.0GHz,Up to 2.8GHz,384KB,8MB,8MB,No,32nm,C32,,40W,70°C,DDR3,nan
+4340,AMD Opteron,Server,,6.0,6.0,3.5GHz,Up to 3.8GHz,288KB,6MB,8MB,No,32nm,C32,,95W,67.70°C,DDR3,nan
+4334,AMD Opteron,Server,,6.0,6.0,3.1GHz,Up to 3.5GHz,288KB,6MB,8MB,No,32nm,C32,,95W,67.70°C,DDR3,nan
+E1-7010,AMD E-Series Processors,Laptop,,2.0,2.0,1.5GHz,Up to 1.5GHz,,1MB,,No,28nm,FP4,,10W,90°C,DDR3L,AMD Radeon R2 Graphics
+4332-HE,AMD Opteron,Server,,6.0,6.0,3.0GHz,Up to 3.7GHz,288KB,6MB,8MB,No,32nm,C32,,65W,68°C,DDR3,nan
+4310-EE,AMD Opteron,Server,,6.0,6.0,2.2GHz,Up to 3.0GHz,192KB,4MB,8MB,No,32nm,C32,,35W,85°C,DDR3,nan
+E1-Micro-6200T,AMD E-Series Processors,"Laptop, Tablet",,2.0,2.0,1.4GHz,,,1MB,,No,28nm,FT3b,,3.95W,,Not Listed,AMD Radeon R2 Graphics
+4284,AMD Opteron,Server,,8.0,8.0,3.0GHz,Up to 3.7GHz,384KB,8MB,8MB,No,32nm,C32,,95W,70.50°C,DDR3,nan
+4280,AMD Opteron,Server,,8.0,8.0,2.8GHz,Up to 2.2GHz,384KB,8MB,8MB,No,32nm,C32,,95W,70.50°C,DDR3,nan
+E1-6010,AMD E-Series Processors,Laptop,,2.0,2.0,1.35GHz,,,1MB,,No,28nm,FT3b,,10W,,Not Listed,AMD Radeon R2 Graphics
+E1-2500,AMD E-Series Processors,Laptop,,2.0,2.0,1.4GHz,,,1MB,,No,28nm,FT3,,15W,,Not Listed,AMD Radeon HD 8240
+4276-HE,AMD Opteron,Server,,8.0,8.0,2.6GHz,Up to 3.6GHz,384KB,8MB,8MB,No,32nm,C32,,65W,68°C,DDR3,nan
+E1-2200,AMD E-Series Processors,Laptop,,2.0,2.0,1.0GHz,,,1MB,,No,28nm,FT3,,9W,,Not Listed,AMD Radeon HD 8210
+4274-HE,AMD Opteron,Server,,8.0,8.0,2.5GHz,Up to 3.5GHz,384KB,8MB,8MB,No,32nm,C32,,65W,68°C,DDR3,nan
+E1-2100,AMD E-Series Processors,Laptop,,2.0,2.0,1.0GHz,,,1MB,,No,28nm,FT3,,9W,,Not Listed,AMD Radeon HD 8210
+4256-EE,AMD Opteron,Server,,8.0,8.0,1.6GHz,Up to 2.8GHz,384KB,8MB,8MB,No,32nm,C32,,35W,64°C,DDR3,nan
+4240,AMD Opteron,Server,,6.0,6.0,3.4GHz,Up to 3.8GHz,288KB,6MB,8MB,No,32nm,C32,,95W,70.50°C,DDR3,nan
+4238,AMD Opteron,Server,,6.0,6.0,3.3GHz,Up to 3.7GHz,288KB,6MB,8MB,No,32nm,C32,,95W,70.50°C,DDR3,nan
+4234,AMD Opteron,Server,,6.0,6.0,3.1GHz,Up to 3.5GHz,288KB,6MB,8MB,No,32nm,C32,,95W,70.50°C,DDR3,nan
+E1-7010,AMD E-Series Processors,All-in-One,,2.0,2.0,1.5GHz,Up to 1.5GHz,,1MB,,No,28nm,FP4,,,90°C,DDR3L,AMD Radeon R2 Graphics
+4230-HE,AMD Opteron,Server,,6.0,6.0,2.9GHz,Up to 3.7GHz,288KB,6MB,8MB,No,32nm,C32,,65W,68°C,DDR3,nan
+4228-HE,AMD Opteron,Server,,6.0,6.0,2.8GHz,Up to 3.6GHz,288KB,6MB,8MB,No,32nm,C32,,65W,68°C,DDR3,nan
+4226,AMD Opteron,Server,,6.0,6.0,2.7GHz,Up to 3.1GHz,288KB,6MB,8MB,No,32nm,C32,,95W,70.50°C,DDR3,nan
+3380,AMD Opteron,Server,,8.0,8.0,2.6GHz,Up to 3.6GHz,384KB,8MB,8MB,No,32nm,AM3+,,65W,70.30°C,DDR3,nan
+3365,AMD Opteron,Server,,8.0,8.0,2.3GHz,Up to 3.3GHz,384KB,8MB,8MB,No,32nm,AM3+,,65W,70.30°C,DDR3,nan
+3350-HE,AMD Opteron,Server,,4.0,4.0,2.8GHz,Up to 3.8GHz,192KB,4MB,8MB,No,32nm,AM3+,,45W,69.10°C,DDR3,nan
+3320-EE,AMD Opteron,Server,,4.0,4.0,1.9GHz,Up to 2.5GHz,192KB,4MB,8MB,No,32nm,AM3+,,25W,70°C,DDR3,nan
+3280,AMD Opteron,Server,,8.0,8.0,2.4GHz,Up to 3.4GHz,384KB,8MB,8MB,No,32nm,AM3+,,65W,61.10°C,DDR3,nan
+3260-HE,AMD Opteron,Server,,4.0,4.0,2.7GHz,Up to 3.7GHz,192KB,4MB,4MB,No,32nm,AM3+,,45W,61.10°C,DDR3,nan
+Opteron-X2170,AMD Opteron,Server,,4.0,4.0,2.4GHz,,,2MB,,,28nm,FT3,,25W,,DDR3,nan
+3250-HE,AMD Opteron,Server,,,,2.5GHz,Up to 3.5GHz,192KB,4MB,4MB,No,32nm,AM3+,,45W,,DDR3,nan
+Opteron-X2150,AMD Opteron,Server,,4.0,4.0,1.9GHz,,,2MB,,No,28nm,FT3,,22W,,DDR3,AMD Radeon HD 8400
+TL-64,AMD Turion,Laptop,,2.0,2.0,2.2GHz,,,1MB,,No,,S1,,35W,95°C,DDR2,Discrete Graphics Card Required
+TL-60,AMD Turion,Laptop,,2.0,2.0,2.0GHz,,,1MB,,No,,S1,,31W,,DDR2,Discrete Graphics Card Required
+TL-56,AMD Turion,Laptop,,,,1.8GHz,,,,,No,,S1,,31W,,Not Listed,Discrete Graphics Card Required
+TL-52,AMD Turion,Laptop,,2.0,2.0,1.6GHz,,,2MB,,No,,S1,,31W,,Not Listed,Discrete Graphics Card Required
